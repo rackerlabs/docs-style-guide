@@ -1,0 +1,16 @@
+bashate
+chios
+doc8
+flake8
+isort
+markdown
+pep8-naming
+pep257
+pyenchant
+pypandoc
+pytest
+pytest-cov
+recommonmark
+sphinx>=1.4.1
+sphinxcontrib-spelling
+sphinx_rtd_theme>=0.1.9
