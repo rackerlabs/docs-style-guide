@@ -82,7 +82,7 @@ linkcheck_ignore = ['https://pages.github.rackspace.com*',
 linkcheck_anchors = False
 
 # General information about the project.
-project = 'Rackspace Documentation Guides'
+project = 'Rackspace Style Guide for Technical Content'
 copyright = '2016-2018, Rackspace'
 
 # The version info for the project you're documenting, acts as replacement for

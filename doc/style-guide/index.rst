@@ -1,8 +1,8 @@
 .. _index-style-guide-for-technical-content:
 
-=================================
-Style guide for technical content
-=================================
+===========================================
+Rackspace Style Guide for Technical Content
+===========================================
 
 *Last updated:* |today|
 
