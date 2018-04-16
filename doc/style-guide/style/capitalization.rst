@@ -105,6 +105,63 @@ Following are some examples.
 
 For more information, see :ref:`abbreviations`.
 
+Capitalization in job titles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Within Rackspace technical documentation, use the following rules for
+capitalization in job titles:
+
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Use case
+     - Examples
+   * - If you’re referring to a job role in general, don’t use initial
+       capitals.
+     - All support technicians will be allocated an account manager and a
+       career coach.
+   * - Don’t use initial capitals where the title is being used as a
+       description.
+     -
+       - The chief executive is Jane Brown and the associate director is Paul
+         Woods.
+
+       - We have a new information developer.
+
+       - I’ll need to ask our sales director.
+
+       - I work as a software architect.
+
+   * - Use initial capitals where the term is serving as an actual title with
+       the name of a person – just as you would on a business card or email signature.
+     -
+       - Chief Executive Jane Brown and Paul Woods, Associate Director, were
+         both late.
+
+       - Attendee list:
+         Anna Collins, Editorial Director;
+         Shazeen Iqbal, Chief Financial Officer;
+         Pope Francis
+
+Capitalize team names
+~~~~~~~~~~~~~~~~~~~~~
+
+When you use team names in technical documents, use initial capitals as shown
+in the following table:
+
+.. list-table::
+   :widths: 100
+   :header-rows: 1
+
+   * - Examples of initial capitals in team names
+   * - The Support team handles making the change for you.
+   * - The Support team handles making the change for you.
+   * - Contact your Account Management team can tell you what the charge will
+       be.
+   * - The Information Development team is amazing!
+   * - Contact Information Development <add email link> for instructions.
+
 Capitalize UI labels as shown on the UI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
