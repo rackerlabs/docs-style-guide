@@ -1,0 +1,44 @@
+.. _use-consistent-time-references:
+
+======================================================
+Use consistent references to time, space, and versions
+======================================================
+
+Use the following terms consistently:
+
+.. list-table::
+   :widths: 20 40 40
+   :header-rows: 1
+
+   * - Terms
+     - Usage
+     - Examples
+   * - before, after
+     - To locate an action in time
+     - **Before** you print your document, save it.
+
+       **After** you save your document, you can print it.
+   * - following, preceding
+     - To locate an item in space
+
+       **Note**: Don't use *above*, *below*, *earlier*, *later*, *before*, or
+       *after* as references to information in text. Where possible, use
+       specific references. If you can't make specific references, use
+       *preceding* and *following* as adjectives for elements such as
+       figures and tables.
+     - The **preceding** information explains how to print a document
+       correctly.
+
+       The utility analyzes the **following** information to prepare the
+       report.
+   * - earlier, later
+     - To refer to product releases (version numbers).
+
+       **Note**: Don't use *higher*, *lower*, *above*, *below*, *older*, or
+       *newer*.
+     - The required namespace kernel features aren't available in the default
+       kernel shipped with Red Hat Enterprise Linux 6.4, CentOS 6.4, and
+       **earlier** versions of these operating systems.
+
+       Rackspace Private Cloud version 4.0 hasn't been tested on versions of
+       Ubuntu **later** than 12.04.

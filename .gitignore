@@ -1,0 +1,35 @@
+# Misc artifacts
+.DS_Store
+.cache/
+.coverage
+*.xpr
+.idea
+.eggs
+
+# Build results 
+target/
+/publish-docs/
+/www/output/
+/generated/
+.doctrees
+
+build/
+_build/
+/build-*.log.gz
+*.pdf
+glossary.rst
+*.mo
+
+# Ignore Vagrant Related Files
+acceptance_config.yml
+boxes/*
+/.vagrant
+
+# Testenvironment
+.tox/
+
+# Editors
+*~
+.*.swp
+.bak
+/.project
