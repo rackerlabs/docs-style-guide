@@ -1,6 +1,6 @@
-=================================
-Style guide for technical content
-=================================
+===========================================
+Rackspace Style Guide for Technical Content
+===========================================
 
 This document contains writing, style, terminology, and image guidelines for
 Rackspace documentation. Use these guidelines to create clear, concise, and
