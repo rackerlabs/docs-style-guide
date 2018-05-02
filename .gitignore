@@ -5,8 +5,9 @@
 *.xpr
 .idea
 .eggs
+target
 
-# Build results 
+# Build results
 target/
 /publish-docs/
 /www/output/
@@ -17,7 +18,6 @@ build/
 _build/
 /build-*.log.gz
 *.pdf
-glossary.rst
 *.mo
 
 # Ignore Vagrant Related Files
