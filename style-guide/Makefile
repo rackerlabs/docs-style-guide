@@ -31,6 +31,7 @@ help:
 	@echo "  htmlhelp   to make HTML files and a HTML help project"
 	@echo "  qthelp     to make HTML files and a qthelp project"
 	@echo "  devhelp    to make HTML files and a Devhelp project"
+        @echo "  applehelp  to make an Apple Help Book"
 	@echo "  epub       to make an epub"
 	@echo "  latex      to make LaTeX files, you can set PAPER=a4 or PAPER=letter"
 	@echo "  latexpdf   to make LaTeX files and run them through pdflatex"
@@ -94,6 +95,14 @@ qthelp:
 	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/RackspaceDeveloperDocumentation.qhcp"
 	@echo "To view the help file:"
 	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/RackspaceDeveloperDocumentation.qhc"
+	
+applehelp:
+	$(SPHINXBUILD) -b applehelp $(ALLSPHINXOPTS) $(BUILDDIR)/applehelp
+	@echo
+	@echo "Build finished. The help book is in $(BUILDDIR)/applehelp."
+	@echo "N.B. You won't be able to view it unless you put it in" \
+	      "~/Library/Documentation/Help or install it in your application" \
+              "bundle."
 
 devhelp:
 	$(SPHINXBUILD) -b devhelp $(ALLSPHINXOPTS) $(BUILDDIR)/devhelp
@@ -171,6 +180,11 @@ doctest:
 	$(SPHINXBUILD) -b doctest $(ALLSPHINXOPTS) $(BUILDDIR)/doctest
 	@echo "Testing of doctests in the sources finished, look at the " \
 	      "results in $(BUILDDIR)/doctest/output.txt."
+	      
+coverage:
+	$(SPHINXBUILD) -b coverage $(ALLSPHINXOPTS) $(BUILDDIR)/coverage
+	@echo "Testing of coverage in the sources finished, look at the " \
+	      "results in $(BUILDDIR)/coverage/python.txt."   
 
 xml:
 	$(SPHINXBUILD) -b xml $(ALLSPHINXOPTS) $(BUILDDIR)/xml
