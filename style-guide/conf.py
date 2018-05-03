@@ -69,7 +69,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # The builder to use when running via the deconst preparer
-  builder = 'deconst-serial'
+builder = 'deconst-serial'
 # builder = 'deconst-single'
 
 # linkcheck options
