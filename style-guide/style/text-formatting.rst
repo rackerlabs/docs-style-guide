@@ -102,7 +102,7 @@ elements. The following style differences are highlighted:
        In RST, apply the ``.. code-block:: console`` directive.
        For configuration files, use ``.. code-block:: ini``
        or ``.. code-block:: yaml`` as appropriate.
-     
+
      - ``$ grep "ftp" /etc/xinetd.d/*``
        ``/etc/xinetd.d/vsftpd:service ftp``
        ``/etc/xinetd.d/vsftpd:server = /usr/sbin/vsftpd``

@@ -94,12 +94,12 @@ Also use the following guidelines related to abbreviations.
    * - For abbreviated units of measure, insert a space between the number and
        the abbreviation. Insert a hyphen if the phrase is a compound modifier.
      - 256 MB
-       
+
        100-GB drive
      - 256MB
-     
+
        100GB drive
-       
+
        100 GB drive
    * - Don't use Latin abbreviations or non-English words and phrases. For
        more information, see :ref:`avoid-obscure-words`.

@@ -98,9 +98,7 @@ following ones to help you boost the effectiveness of your writing.
        one meaning that is used consistently throughout the content. Avoid
        using humor, jargon, and metaphors.
      - :ref:`use-consistent-terms`
-     
+
        :ref:`terms-for-global-audience`
 
        :ref:`concise-terms`
-
-       

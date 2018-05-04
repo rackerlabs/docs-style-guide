@@ -26,7 +26,8 @@ end of this topic.
 - `Capitalize the names of product components as
   appropriate <#capitalize-the-names-of-product-components-as-appropriate>`__
 - `Don't capitalize common nouns <#don-t-capitalize-common-nouns>`__
-- `Don't use all capitals for emphasis <#don-t-use-all-capitals-for-emphasis>`__
+- `Don't use all capitals for emphasis
+  <#don-t-use-all-capitals-for-emphasis>`__
 
 Capitalize proper nouns and adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
