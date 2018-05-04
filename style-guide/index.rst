@@ -7,8 +7,9 @@ Rackspace Style Guide for Technical Content
 *Last updated:* |today|
 
 This document contains writing, style, terminology, and image guidelines for
-Rackspace documentation. Use these guidelines to create clear, concise, and
-consistent technical content for Rackspace customers.
+Rackspace technical documentation. Use these guidelines to create clear,
+concise, and consistent technical content for Rackspace external and internal
+customers.
 
 :ref:`quickstart`
    Highlights top writing and style guidelines for content contributors.

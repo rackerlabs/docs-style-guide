@@ -3,8 +3,8 @@ Rackspace Style Guide for Technical Content
 ===========================================
 
 This document contains writing, style, terminology, and image guidelines for
-Rackspace documentation. Use these guidelines to create clear, concise, and
-consistent technical content for Rackspace customers.
+Rackspace technical documentation. Use these guidelines to create clear,
+concise, and consistent technical content.
 
 The guide is published to GitHub Pages at
 http://rackerlabs.github.io/docs-rackspace/style-guide/index.html.

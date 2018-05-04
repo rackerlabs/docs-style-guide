@@ -4,6 +4,12 @@ Style guide revision history
 
 This file summarizes the changes that have been made to the style guide.
 
+April 16, 2018
+~~~~~~~~~~~~~~
+
+-  Added capitalization guidelines for job titles.
+-  Added capitalization guidelines for team names.
+
 June 19, 2017
 ~~~~~~~~~~~~~
 
