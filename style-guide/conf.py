@@ -42,14 +42,15 @@ sys.path.insert(0, os.path.abspath('../tools/'))
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.viewcode',
-    'chios.bolditalic',
-    'chios.remotecode',
-    'sphinx.ext.githubpages',
     'sphinx.ext.ifconfig',
     'sphinx.ext.todo',
-    'chios.remoteinclude'
+    'sphinx.ext.extlinks',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'chios.bolditalic',
+    'chios.remotecode',
+    'chios.remoteinclude',
+    'sphinx.ext.githubpages'
 ]
 
 if spelling is not None:
