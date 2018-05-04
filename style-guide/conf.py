@@ -15,8 +15,8 @@ serve to show the default.
 import os
 import sys
 
-from recommonmark.parser import CommonMarkParser
-from recommonmark.transform import AutoStructify
+# from recommonmark.parser import CommonMarkParser
+# from recommonmark.transform import AutoStructify
 
 try:
     import sphinx_rtd_theme
@@ -42,10 +42,15 @@ sys.path.insert(0, os.path.abspath('../tools/'))
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.todo',
+    'sphinx.ext.extlinks',
     'sphinx.ext.autodoc',
-    'sphinx.ext.viewcode',
+    'sphinx.ext.autosummary',
     'chios.bolditalic',
     'chios.remotecode',
+    'chios.remoteinclude',
+    'sphinx.ext.githubpages'
 ]
 
 if spelling is not None:
@@ -55,9 +60,9 @@ if spelling is not None:
 # templates_path = ['_templates']
 
 # Parsers for non-Sphinx RST formats
-source_parsers = {
-    '.md': CommonMarkParser,
-}
+# source_parsers = {
+#    '.md': CommonMarkParser,
+# }
 
 # The suffix of source filenames.
 source_suffix = ['.rst', '.md']
@@ -235,15 +240,15 @@ htmlhelp_basename = 'docs-style-guide'
 html_add_permalinks = '#'
 
 
-def setup(app):
-    """Setup sphinx app extension hook for recommonmark."""
-    app.add_config_value('recommonmark_config', {
-        'enable_auto_doc_ref': True,
-        'auto_toc_tree_section': None,
-        'enable_auto_toc_tree': True,
-        'enable_eval_rst': True,
-        'enable_math': False,
-        'enable_inline_math': False,
-        'url_resolver': lambda x: x,
-        }, True)
-    app.add_transform(AutoStructify)
+# def setup(app):
+#    """Setup sphinx app extension hook for recommonmark."""
+#    app.add_config_value('recommonmark_config', {
+#        'enable_auto_doc_ref': True,
+#        'auto_toc_tree_section': None,
+#        'enable_auto_toc_tree': True,
+#        'enable_eval_rst': True,
+#        'enable_math': False,
+#        'enable_inline_math': False,
+#        'url_resolver': lambda x: x,
+#        }, True)
+#    app.add_transform(AutoStructify)

@@ -19,6 +19,8 @@ end of this topic.
 - `Capitalize proper nouns and
   adjectives <#capitalize-proper-nouns-and-adjectives>`__
 - `Capitalize most abbreviations <#capitalize-most-abbreviations>`__
+- `Capitalization in job titles <#capitalization-in-job-titles>`__
+- `Capitalize team names <#capitalize-team-names>`__
 - `Capitalize UI labels as shown on the
   UI <#capitalize-ui-labels-as-shown-on-the-ui>`__
 - `Capitalize the names of product components as
