@@ -46,6 +46,10 @@ extensions = [
     'sphinx.ext.viewcode',
     'chios.bolditalic',
     'chios.remotecode',
+    'sphinx.ext.githubpages',
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.todo',
+    'chios.remoteinclude',
 ]
 
 if spelling is not None:
