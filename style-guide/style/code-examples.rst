@@ -5,7 +5,7 @@ Code examples
 =============
 
 .. note::
-   
+
    For more information about formatting code, see the "Code" row in
    the Text formatting topic.
 

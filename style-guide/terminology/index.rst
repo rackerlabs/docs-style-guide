@@ -4,7 +4,8 @@
 Terminology guidelines
 ======================
 
-This section provides guidelines for using terms in Rackspace content.
+This section provides guidelines for using terms in Rackspace technical
+content.
 
 :ref:`index-general-terminology-guidelines`
    Provides some general guidelines for using consistent, short, and familiar

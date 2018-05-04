@@ -11,7 +11,8 @@ you write clear and concise sentences and paragraphs.
 -  `Use a consistent sentence
    structure <#use-a-consistent-sentence-structure>`__
 -  `Restrict sentence length <#restrict-sentence-length>`__
--  `Use only, but all of, the necessary words <#use-only-but-all-of-the-necessary-words>`__
+-  `Use only, but all of, the necessary words
+   <#use-only-but-all-of-the-necessary-words>`__
 -  `Create short paragraphs <#create-short-paragraphs>`__
 
 Use a consistent sentence structure
