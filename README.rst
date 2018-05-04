@@ -6,7 +6,7 @@ This document contains writing, style, terminology, and image guidelines for
 Rackspace technical documentation. Use these guidelines to create clear,
 concise, and consistent technical content.
 
-The guide is published to GitHub Pages at
+The guide is currently published to GitHub Pages at
 http://rackerlabs.github.io/docs-rackspace/style-guide/index.html.
 
 .. figure:: screenshots/images/img/creativecommons.png
