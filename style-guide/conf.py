@@ -49,7 +49,7 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx.ext.ifconfig',
     'sphinx.ext.todo',
-    'chios.remoteinclude',
+    'chios.remoteinclude'
 ]
 
 if spelling is not None:
