@@ -4,10 +4,12 @@
 Screenshot and diagram guidelines
 =================================
 
-At Rackspace, we strive to deliver :bolditalic:`Fanatical Support` ® through
-exceptional documentation. Images are an essential part of helpful,
-clear, and concise content. Follow the standards in this section when
-creating images for your documents.
+.. raw:: html
+
+   At Rackspace, we strive to deliver <b><i>Fanatical Support</i></b> ®
+   through exceptional documentation. Images are an essential part of helpful,
+   clear, and concise content. Follow the standards in this section when
+   creating images for your documents.
 
 .. toctree::
    :maxdepth: 1
