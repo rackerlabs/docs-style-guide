@@ -118,14 +118,13 @@ trademarks in documentation.
        The Rackspace Cloud Storage App for Microsoft SharePoint enables you to
        work with files inside of Rackspace Cloud Files alongside SharePoint
        content.
-   * - Always use *Fanatical Support* as a trademark. Don't use *fanatical*
-       outside of the trademark. Also, always distinguish this trademark from
-       surrounding text by using bold and italics (in RST, apply the
-       ``:bolditalic:`` directive). Show a registered trademark symbol on first
-       use.
+   * - Always use *Fanatical Support* as a trademark. Don't use *Fanatical*
+       outside of the trademark. Use bold font and show a registered
+       trademark symbol (**Fanatical Support**\®) on first use in content, but
+       not in headings.
 
        For more information, see the `Rackspace Trademark Guidelines PDF from
        Legal
        <https://one.rackspace.com/pages/worddav/preview.action?fileName=RACKSPACE-%2327629-v1-Rackspace_Trademark_Guidelines.pdf&pageId=72684499>`__.
-     - We provide :bolditalic:`Fanatical Support` ®.
-     - Our support is fanatical.
+     - We provide **Fanatical Support**\®.
+     - Our support is **Fanatical**\™.

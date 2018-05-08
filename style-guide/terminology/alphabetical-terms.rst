@@ -37,7 +37,8 @@ parts of speech:
 
        *Use:*
 
-       *Fanatical Support* sets Rackspace apart. We are here to help, 24x7x365.
+       **Fanatical Support**\® sets Rackspace apart. We are here to help,
+       24x7x365.
    * - about, on
      - Restricted
      - Don't use *on* to mean *about*. For example, use *information about*,
@@ -1154,9 +1155,9 @@ parts of speech:
        don't use *fanatical* as a general adjective, and don't use
        *fanatically*.
 
-       *Use:*
+       *Use (first use in content):*
 
-       Our dedication to :bolditalic:`Fanatical Support` ® extends beyond
+       Our dedication to **Fanatical Support**\® extends beyond
        expert live assistance to ensuring that customers have access to
        self-help tools.
 

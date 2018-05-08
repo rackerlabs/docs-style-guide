@@ -28,10 +28,10 @@ try:
 except:
     spelling = None
 
-try:
-    from chios import bolditalic
-except ImportError:
-    bolditalic = None
+# try:
+#    from chios import bolditalic
+# except ImportError:
+#    bolditalic = None
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -52,12 +52,12 @@ extensions = [
     'sphinx.ext.extlinks',
 ]
 
-if bolditalic is not None:
-    extensions.extend([
-        'chios.bolditalic',
-        'chios.remotecode',
-        'chios.remoteinclude'
-    ])
+# if bolditalic is not None:
+#    extensions.extend([
+#        'chios.bolditalic',
+#        'chios.remotecode',
+#        'chios.remoteinclude'
+#    ])
 
 if spelling is not None:
     extensions.append('sphinxcontrib.spelling')
@@ -217,7 +217,7 @@ html_context = {
     'css_files': [
         '_static/theme_overrides.css',  # overrides wide tables in RTD theme
         '_static/bespoke.css',  # custom CSS styling
-        '_static/bolditalic.css',  # bolditalic styling
+#        '_static/bolditalic.css',  # bolditalic styling
         ],
     }
 

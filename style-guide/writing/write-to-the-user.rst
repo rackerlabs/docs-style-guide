@@ -54,7 +54,8 @@ Second person also promotes a friendly tone.
    * - We offer you a comprehensive portfolio of hosting options.
      - Rackspace offers a comprehensive portfolio of hosting options for the
        enterprise buyer.
-   * - Fanatical Support sets Rackspace apart. We are here to help, 24x7x365.
+   * - **Fanatical Support**\® sets Rackspace apart. We are here to help,
+       24x7x365.
      - Rackspace is here to help customers.
    * - Cloud Backup uses block-level deduplication, which means that only those
        parts of a file that have changed are saved.
