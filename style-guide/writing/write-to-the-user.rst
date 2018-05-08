@@ -5,8 +5,8 @@ Write to the user by using second person and imperative mood
 ============================================================
 
 Users are more engaged with content when it talks to them directly. You
-talk to users directly by using *second person*, addressing the user as *you*.
-Second person also promotes a friendly tone.
+talk to users directly by using *second person*, addressing the user as
+*you*. Second person also promotes a friendly tone.
 
 -  Use second person with the imperative mood (in which the subject *you* is
    understood) and active voice to eliminate wordiness and confusion about who
@@ -54,7 +54,8 @@ Second person also promotes a friendly tone.
    * - We offer you a comprehensive portfolio of hosting options.
      - Rackspace offers a comprehensive portfolio of hosting options for the
        enterprise buyer.
-   * - Fanatical Support sets Rackspace apart. We are here to help, 24x7x365.
+   * - **Fanatical Support**\® sets Rackspace apart. We are here to help,
+       24x7x365.
      - Rackspace is here to help customers.
    * - Cloud Backup uses block-level deduplication, which means that only those
        parts of a file that have changed are saved.

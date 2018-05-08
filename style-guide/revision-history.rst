@@ -4,6 +4,15 @@ Style guide revision history
 
 This file summarizes the changes that have been made to the style guide.
 
+May 8, 2018
+~~~~~~~~~~~
+
+-  Removed the guideline to use the ``bolditalic`` directive for the
+   term *Fanatical Support* in RST files (:ref:`trademarks`). For the first
+   mention that is not in a heading, use only bold font and the registered
+   trademark symbol (**Fanatical Support**\®) to be consistent with
+   marketing documentation.
+
 April 16, 2018
 ~~~~~~~~~~~~~~
 
