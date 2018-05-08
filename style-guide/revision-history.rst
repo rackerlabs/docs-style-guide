@@ -4,8 +4,8 @@ Style guide revision history
 
 This file summarizes the changes that have been made to the style guide.
 
-April 8, 2018
-~~~~~~~~~~~~~
+May 8, 2018
+~~~~~~~~~~~
 
 -  Removed the guideline to use the ``bolditalic`` directive for the
    term *Fanatical Support* in RST files (:ref:`trademarks`). For the first
