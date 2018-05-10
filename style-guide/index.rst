@@ -11,7 +11,7 @@ for Rackspace technical documentation. Use these guidelines to create clear,
 concise, and consistent technical content for Rackspace external and internal
 customers.
 
-:ref:`quickstart`
+:ref:`bestpractices`
    Highlights top writing and style guidelines for content contributors.
 
 :ref:`index-writing-guidelines`
@@ -39,9 +39,10 @@ customers.
    writing release notes for any product or service.
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
 
-   quickstart.rst
+   bestpractices.rst
    writing/index.rst
    style/index.rst
    markup-guidelines.rst
