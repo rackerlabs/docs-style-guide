@@ -1,8 +1,8 @@
 .. _quickstart:
 
-==========
-Quickstart
-==========
+==============
+Best practices
+==============
 
 Thank you for contributing to Rackspace content!
 
