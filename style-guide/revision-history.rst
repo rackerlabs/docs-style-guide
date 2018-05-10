@@ -41,8 +41,8 @@ November 10, 2016
 
 -  Converted the style guide to reStructuredText.
 -  :ref:`trademarks`: Added guidelines to show the term *Fanatical Support* in
-   bold and italics (using the ``:bolditalic:`` directive in RST) and to show a
-   registered trademark symbol on first use.
+   bold and italics (using the ``:bolditalic:`` directive in RST) and to show
+   a registered trademark symbol on first use.
 
 July 27, 2016
 ~~~~~~~~~~~~~
