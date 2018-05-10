@@ -39,6 +39,7 @@ customers.
    writing release notes for any product or service.
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
 
    quickstart.rst
