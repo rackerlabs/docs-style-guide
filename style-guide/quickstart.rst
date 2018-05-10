@@ -11,8 +11,8 @@ or *content*—your most important contribution is your knowledge and expertise.
 Your willingness to share what you know with users will help them to accomplish
 their goals and be successful.
 
-The Information Development team is ready to help turn your contributions into
-clear, concise, consistent, easy-to-read content for users. We do this, in
+The Information Development team is ready to help turn your contributions
+into clear, concise, consistent, easy-to-read content for users. We do this, in
 part, by adhering to the standards that are defined in this style guide. The
 team doesn't expect contributors to know or adhere to all of these standards;
 however, if you are interested in improving your writing or learning some of
