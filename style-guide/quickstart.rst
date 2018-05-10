@@ -88,8 +88,8 @@ following ones to help you boost the effectiveness of your writing.
      - :ref:`titles-and-headings`
    * - **Write clear and consistent code examples**.
 
-       When you create blocks of code as input or output examples, follow some
-       basic guidelines to make them clear to users.
+       When you create blocks of code as input or output examples, follow
+       some basic guidelines to make them clear to users.
      - :ref:`code-examples`
    * - **Use consistent and simple terminology**.
 
