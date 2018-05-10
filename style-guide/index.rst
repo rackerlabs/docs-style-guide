@@ -42,6 +42,7 @@ customers.
    :hidden:
    :maxdepth: 3
 
+   Rackspace Style Guide <self>
    quickstart.rst
    writing/index.rst
    style/index.rst
