@@ -34,11 +34,12 @@ customers.
    diagrams to enhance your content.
 
 :ref:`release-notes-guidelines`
-   Provides instructions specifically for writing release notes for Rackspace
-   Cloud services APIs. You can use these basic guidelines, however, when
-   writing release notes for any product or service.
+   Provides instructions specifically for writing release notes for
+   Rackspace Cloud services APIs. You can use these basic guidelines,
+   however, when writing release notes for any product or service.
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
 
    quickstart.rst
