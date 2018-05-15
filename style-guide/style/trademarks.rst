@@ -121,7 +121,7 @@ trademarks in documentation.
    * - Always use *Fanatical Support* as a trademark. Don't use *Fanatical*
        outside of the trademark. On the first use of this trademark in a
        document, in body content (not in headings ), use bold font and use a
-       registered trademark symbol. In RST files, syntax is the
+       registered trademark symbol. In RST files, the syntax is
        `**Fanatical Support**\®`. In Markdown (md) files, the syntax is
        `**Fanatical Support**&reg;`.
 
