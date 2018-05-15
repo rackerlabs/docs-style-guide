@@ -122,8 +122,8 @@ trademarks in documentation.
        outside of the trademark. On the first use of this trademark in a
        document, in body content (not in headings ), use bold font and use a
        registered trademark symbol. In RST files, the syntax is
-       `**Fanatical Support**\®`. In Markdown (md) files, the syntax is
-       `**Fanatical Support**&reg;`.
+       ``**Fanatical Support**\®``. In Markdown (md) files, the syntax is
+       ``**Fanatical Support**&reg;``.
 
        For more information, see the `Rackspace Trademark Guidelines PDF from
        Legal
