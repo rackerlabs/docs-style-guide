@@ -125,8 +125,8 @@ trademarks in documentation.
        ``**Fanatical Support**\®``. In Markdown (md) files, the syntax is
        ``**Fanatical Support**&reg;``.
 
-       For more information, see the `Rackspace Trademark Guidelines PDF from
+       For more information, see the `Rackspace Trademark Guidelines from
        Legal
-       <https://one.rackspace.com/pages/worddav/preview.action?fileName=RACKSPACE-%2327629-v1-Rackspace_Trademark_Guidelines.pdf&pageId=72684499>`__.
+       <https://one.rackspace.com/display/legal/Trademarks>`__.
      - We provide **Fanatical Support**\®.
-     - Our support is **Fanatical**\™.
+     - Our support is Fanatical.
