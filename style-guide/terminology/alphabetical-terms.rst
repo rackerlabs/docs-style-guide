@@ -402,7 +402,7 @@ parts of speech:
        *automatic* or *automatically* instead.
 
        Don't use *auto* as an abbreviation for *automatic* or *automatically*,
-       unless you're referring to a label on a UI.
+       unless you are referring to a label on a UI.
 
        If you have a question about a particular word, look it up in a
        dictionary.
