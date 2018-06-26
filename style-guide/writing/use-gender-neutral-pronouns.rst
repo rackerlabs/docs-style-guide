@@ -25,8 +25,8 @@ she need to forward the status. But recently, acceptance of the pronoun
 *they* is actually an old pattern in English.)
 
 But if you really don't like using singular *they* or *their*, rewrite the
-sentence avoiding singular nouns. Using plurals can often help, as shown in the
-following example:
+sentence avoiding singular nouns. Using plurals can often help, as shown in
+the following example:
 
  *Use:*
 
