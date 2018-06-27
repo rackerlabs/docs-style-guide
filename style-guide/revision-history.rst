@@ -11,14 +11,14 @@ June 29, 2018 (End of Q2 release)
 -  Added words to word list including the following words:
    -  *abort*
    -  *access*
-   -  AM, PM
+   -  *AM*, *PM*
    -  *Android*
    -  *any time*, *anytime*
    -  *API*, *APIs*
    -  *app*, *application*
    -  *argument*
    -  *at scale*
-   -  *drop-down* 
+   -  *drop-down*
 
 May 8, 2018
 ~~~~~~~~~~~
