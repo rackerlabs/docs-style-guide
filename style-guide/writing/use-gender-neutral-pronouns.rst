@@ -5,8 +5,8 @@ Use gender-neutral pronouns
 ===========================
 
 Don't use gender-specific pronouns unless the person you're referring to is
-actually that gender. A good general rule is that only when the singular noun
-does not specify an individual it can be replaced with a plural pronoun.
+actually that gender. A good general rule is that only when the singular
+noun does not specify an individual it can be replaced with a plural pronoun.
 
 In particular, don't use *he*, *him*, *his*, *she*, or *her* as gender-neutral
 pronouns, and don't use *he/she* or *(s)he* or other such punctuational
