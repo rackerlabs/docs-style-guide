@@ -10,7 +10,7 @@ does not specify an individual it can be replaced with a plural pronoun.
 
 In particular, don't use *he*, *him*, *his*, *she*, or *her* as gender-neutral
 pronouns, and don't use *he/she* or *(s)he* or other such punctuational
-approaches. Instead, use *they* or its derivative forms ()*their*, *theirs*,
+approaches. Instead, use *they* or its derivative forms (*their*, *theirs*,
 *them*, or *themselves*) as a singular pronoun. Following are some examples:
 
 - Tell the next caller they need to forward the status.
