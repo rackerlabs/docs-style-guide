@@ -8,18 +8,29 @@ June 29, 2018 (End of Q2 release)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Added use of :ref:`use-gender-neutral-pronouns`.
+
 -  Added words to word list including the following words:
 
-   -  *abort*
-   -  *access*
-   -  *AM*, *PM*
-   -  *Android*
-   -  *any time*, *anytime*
-   -  *API*, *APIs*
-   -  *app*, *application*
-   -  *argument*
-   -  *at scale*
-   -  *drop-down*
+   *  *abort*
+
+   *  *access*
+
+   *  *AM*, *PM*
+
+   *  *Android*
+
+   *  *any time*, *anytime*
+
+   *  *API*, *APIs*
+
+   *  *app*, *application*
+
+   *  *argument*
+
+   *  *at scale*
+
+   *  *drop-down*
+
 
 May 8, 2018
 ~~~~~~~~~~~
