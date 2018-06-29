@@ -348,7 +348,7 @@ grammar reference, such as the *Harbrace College Handbook*.
 
 
 - Use periods with abbreviations that could be misread as a word, such as *in.*
-  (for *inch*). Also, use periods in the abbreviations *a.m.* and *p.m.*
+  (for *inch*).
 
 - Precede a file name extension with a period.  Also, assume that the period in
   a file name extension is pronounced as *dot*, and use the indefinite article

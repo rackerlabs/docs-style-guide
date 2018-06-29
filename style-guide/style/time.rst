@@ -46,9 +46,9 @@ guidelines:
 -  Use a colon to separate the hours and minutes. If the minutes are
    00, you don't need to show them unless you're showing a span of
    time that includes a time with minutes.
--  Use lowercase letters for abbreviations of ante meridiem (a.m.) and
-   post meridiem (p.m.). Separate these abbreviations from the time with
-   a space. Use periods in the abbreviations.
+-  Use uppercase letters for abbreviations of ante meridiem (AM) and
+   post meridiem (PM). Separate these abbreviations from the time with
+   a space. Do not use periods in the abbreviations.
 -  When specifying time zones, show both the spelled-out name and the
    abbreviation. Show the name in lowercase letters; use uppercase
    letters and no periods for the abbreviation.
@@ -56,17 +56,17 @@ guidelines:
    appropriate designation changes frequently. However, if you need to
    include such a reference, insert *S* (for standard) or *D* (for
    daylight) as the second character in the abbreviation.
--  When referring to 12 a.m., use *12 midnight* or just *midnight*. When
-   referring to 12 p.m., use *12 noon* or just *noon*.
+-  When referring to 12 AM, use *12 midnight* or just *midnight*. When
+   referring to 12 PM, use *12 noon* or just *noon*.
 
 .. list-table::
    :widths: 100
    :header-rows: 1
 
    * - Examples
-   * - 10:29 a.m.
-   * - 6 p.m.
-   * - 6:00 p.m. to 8:30 p.m.
-   * - 10:30 a.m. central time (CT)
-   * - 1:30 p.m. central standard time (CST)
+   * - 10:29 AM
+   * - 6 PM
+   * - 6:00 PM to 8:30 PM
+   * - 10:30 AM Central Time (CT)
+   * - 1:30 PM Central Standard Time (CST)
    * - midnight
