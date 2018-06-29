@@ -15,6 +15,8 @@ June 29, 2018 (End of Q2 release)
 
    *  *access*
 
+   *  *admin*, *administrator*, *administer*, *administrative*
+
    *  *AM*, *PM*
 
    *  *Android*
