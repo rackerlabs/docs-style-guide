@@ -61,7 +61,8 @@ Also use the following guidelines related to abbreviations.
      - OS
      - "OS"
    * - Use periods only if the abbreviation normally has them (for example,
-       *a.m.* and *p.m.*) or could otherwise be misread as a word, such as
+       *etc.* although this should not be used in Rackspace content) or could
+       otherwise be misread as a word, such as
        *in.* (for *inch*).
      - FAQ
      - F.A.Q.

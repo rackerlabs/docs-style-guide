@@ -2140,9 +2140,9 @@ parts of speech:
    * - plug-in (n, adj)
      -
      - Hyphenate; don't use *plugin*.
-   * - p.m., a.m.
+   * - PM, AM
      -
-     - Use lowercase, with a period after each letter.
+     - Use uppercase, with no period after each letter.
    * - pop-up
      - Restricted
      - Use *pop-up* as an adjective to refer to a menu that's displayed when
