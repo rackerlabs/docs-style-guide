@@ -9,7 +9,7 @@ June 29, 2018 (End of Q2 release)
 
 -  Added use of :ref:`use-gender-neutral-pronouns`.
 
--  Added words to word list including the following words:
+-  Added to word list including the following words:
 
    *  *abort*
 
