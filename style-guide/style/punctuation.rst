@@ -6,8 +6,8 @@ Punctuation
 
 Use punctuation correctly and consistently. This section provides
 guidelines for using punctuation in Rackspace documentation. For basic
-rules about punctuation, see a grammar reference, such as the *Harbrace
-College Handbook*.
+rules about punctuation, see a grammar reference, such as the
+*Harbrace College Handbook*.
 
 -  `Ampersands <#ampersands>`__
 -  `Colons <#colons>`__
