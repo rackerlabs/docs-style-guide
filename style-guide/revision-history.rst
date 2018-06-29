@@ -4,6 +4,36 @@ Style guide revision history
 
 This file summarizes the changes that have been made to the style guide.
 
+June 29, 2018 (End of Q2 release)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Added use of :ref:`use-gender-neutral-pronouns`.
+
+-  Added to the word list including the following words:
+
+   *  *abort*
+
+   *  *access*
+
+   *  *admin*, *administrator*, *administer*, *administrative*
+
+   *  *AM*, *PM*
+
+   *  *Android*
+
+   *  *any time*, *anytime*
+
+   *  *API*, *APIs*
+
+   *  *app*, *application*
+
+   *  *argument*
+
+   *  *at scale*
+
+   *  *drop-down*
+
+
 May 8, 2018
 ~~~~~~~~~~~
 

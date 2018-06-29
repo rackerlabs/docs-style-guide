@@ -18,6 +18,7 @@ consistent, and that helps users accomplish their goals.
    clarify-gerunds-participles.rst
    use-that-which-correctly.rst
    use-pronouns-carefully.rst
+   use-gender-neutral-pronouns.rst
    use-positive-statements.rst
    use-correct-punctuation.rst
    use-interjections-with-care.rst
