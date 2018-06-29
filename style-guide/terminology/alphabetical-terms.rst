@@ -125,6 +125,16 @@ parts of speech:
      -
      - Use as two words. Don't hyphenate *ad hoc*, even when it's used as a
        modifier (for example, *ad hoc tasks*).
+   * - admin, administrator, administer (v), administrative (adj)
+     -
+     - Use *admin* in code as needed, such as ``role: "admin"``.
+       Use *administrator* in descriptive content, such as "The administrator
+       of the accounts".
+       Use *administer* when a verb form is needed. Do not use *administrate*.
+       For example, "Kelly administers the accounts processes for that
+       customer."
+       Use *administrative* as ad adjective before a noun, such as
+       *administrative role*.
    * - affect, effect
      -
      - Use *affect* as a verb to mean influence, change, or have an effect on.
