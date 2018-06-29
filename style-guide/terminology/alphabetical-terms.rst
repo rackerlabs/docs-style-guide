@@ -60,6 +60,19 @@ parts of speech:
        the console.)
 
        The installation takes about 10 minutes to complete.
+   * - abort
+     - Avoid
+     - Don't use. Instead, use words like *stop*, *exit*, *cancel*, or
+       *end*.
+
+       *Use:*
+
+       If the program seems to be looping, end it.
+
+       *Don't use:*
+
+       If the program seems to be looping, abort it.
+
    * - above
      - Restricted
      - Don't use *above* to locate information within a topic or a deliverable
@@ -90,6 +103,10 @@ parts of speech:
 
        To configure a custom error page for 3.5 SP1 and above, follow this
        example.
+   * - access (v)
+     - Avoid
+     - Avoid when you can in favor of friendlier words like *see*, *edit*,
+       *find*, *use*, or *view*.
    * - accessible
      - Restricted
      - Use *accessible* only to refer to things that all people, including
@@ -108,6 +125,16 @@ parts of speech:
      -
      - Use as two words. Don't hyphenate *ad hoc*, even when it's used as a
        modifier (for example, *ad hoc tasks*).
+   * - admin, administrator, administer (v), administrative (adj)
+     -
+     - Use *admin* in code as needed, such as ``role: "admin"``.
+       Use *administrator* in descriptive content, such as "The administrator
+       of the accounts".
+       Use *administer* when a verb form is needed. Do not use *administrate*.
+       For example, "Kelly administers the accounts processes for that
+       customer."
+       Use *administrative* as ad adjective before a noun, such as
+       *administrative role*.
    * - affect, effect
      -
      - Use *affect* as a verb to mean influence, change, or have an effect on.
@@ -197,9 +224,19 @@ parts of speech:
 
        As an alternative method, you can right-click the table and select a
        command from the menu.
-   * - a.m., p.m.
+   * - AM, PM
      -
-     - Show in lowercase, with a period after each letter.
+     - Show in uppercase, with no periods after each letter, and a space
+       before.
+
+       *Use:*
+
+       Between 8:00 AM and 5:00 PM
+
+       *Don't use:*
+
+       Between 8:00 a.m. and 5:00 p.m.
+
    * - among, between
      -
      - When referring to three or more persons or items or when the number is
@@ -258,6 +295,18 @@ parts of speech:
        generate a job.
 
        From this window you can edit the job and/or schedule it to run later.
+   * - Android
+     -
+     - Use initial caps. Never use *android*.
+
+       *Use:*
+
+       Android-powered device
+
+       *Don't use:*
+
+       android-powered device
+
    * - anti (prefix)
      -
      - Don't hyphenate words that begin with the prefix *anti* unless the root
@@ -269,6 +318,31 @@ parts of speech:
        *Use:*
 
        antivirus, antispam, antispyware, anti-intelligence
+   * - any time (n), anytime (adv)
+     -
+     - *Use:*
+
+       You can change this setting at any time.
+       Anytime you want a good video, you can watch YouTube.
+
+   * - API, APIs
+     -
+     - Use *API* to refer to either an API for a service or a language-Specific
+       API. Don't use it when referring to a method or a class. The plural form
+       of API is APIs, not API's.
+
+       *Use:*
+
+       Use the API for Cloud Servers when you need a feature that is not
+       available in the Control Panel.
+
+       *Don't use:*
+
+       Don't write "This resource has one API" when you mean "This resource
+       has one method."
+   * - app
+     -
+     - Use *app*, not *application*, in most cases.
    * - appear
      -
      - Unlike *display*, *appear* doesn't require a direct object. You can use
@@ -282,6 +356,11 @@ parts of speech:
    * - appendixes
      -
      - As the plural of *appendix*, use *appendixes* rather than *appendices*.
+   * - application
+     - Don't use
+     - Instead, use *app*. The industry trend is toward *app*. It's okay to use
+       *application* as part of a common phrase such as *application
+       programming interface*, but in general usage, *app* is preferable.
    * - architect (v), architected (adj)
      - Don't use
      - Use *architect* only as a noun. For a verb, use *design*, *create*,
@@ -289,6 +368,9 @@ parts of speech:
 
        Instead of using *architected* as an adjective, use *designed* or
        another appropriate word.
+   * - argument (command-line context)
+     - Don't use
+     - Instead, use *option*.
    * - as, since
      - Restricted
      - Don't use *as* or *since* when describing the reason for a situation,
@@ -318,6 +400,9 @@ parts of speech:
      - Restricted
      - Use *ensure* to mean make certain of an action, event, or outcome. Don't
        use *assure* (to set someone's mind at ease) to convey this meaning.
+   * - at scale
+     -
+     - Don't use *at-scale*.
    * - auto (prefix)
      -
      - Don't hyphenate words that begin with the prefix *auto* unless it's
@@ -327,7 +412,7 @@ parts of speech:
        *automatic* or *automatically* instead.
 
        Don't use *auto* as an abbreviation for *automatic* or *automatically*,
-       unless you're referring to a label on a UI.
+       unless you are referring to a label on a UI.
 
        If you have a question about a particular word, look it up in a
        dictionary.
@@ -955,6 +1040,21 @@ parts of speech:
        *Avoid:*
 
        Drill down to the folder that contains your file.
+   * - drop-down (adj)
+     - Restricted
+     - Only when you are referring to a drop-down menu as a user interface
+       element, for example, in Helix documentation, use drop-down as an adjective.
+
+       Include the hyphen.
+
+       *Use:*
+
+       The drop-down menu element must include several options.
+
+       *Don't use:*
+
+       The dropdown menu element must include several options.
+
    * - drop-down list, drop-down menu
      - Don't use
      - Use *list* or *menu*, or use the name of the list or menu.
