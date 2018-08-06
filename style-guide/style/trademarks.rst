@@ -21,8 +21,9 @@ Examples of trademarks
 Following are examples of Rackspace trademarks:
 
 -  Rackspace (when used in connection with service names)
+-  Fanatical Support
 -  ObjectRocket
--  Carina
+
 
 For a complete list, see the `Rackspace Trademark
 List <https://www.rackspace.com/information/legal/tmlist>`__.
