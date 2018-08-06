@@ -9,6 +9,13 @@ correctly. The following table shows common third-party names used in
 Rackspace content in the format they should be used. Common misuses are
 also provided.
 
+.. note::
+
+   To see if there is a trademark or registered trademark for a new company or
+   software name that you use in your content, it's always a good idea to do
+   research on the internet and make sure that you are following any specified
+   trademark guidelines.
+
 .. list-table::
    :widths: 30 70
    :header-rows: 1
