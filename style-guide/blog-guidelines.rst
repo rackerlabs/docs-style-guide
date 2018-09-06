@@ -58,12 +58,12 @@ When you write your content, we recommend the following rules of thumb:
    don’t pad it unnecessarily. Going long is okay, too, as long as it’s worth
    reading.
 
--  Tools: We recommend using a word processor, like MicroSoft Word, or a text
+-  Tools: We recommend using a word processor, like Microsoft Word, or a text
    editor for your writing.
 
 -  General format:
 
-   - An attention-grabbing opening, known in the news biz as a “lede”
+   - An attention-grabbing opening, known in the news business as a “lede”
 
    - A “nut graf” - a sentence or two letting readers know what you’re going
      to be talking about and why it matters
@@ -80,7 +80,7 @@ Bullet points are useful for listing features.
 Think “be helpful” rather than trying to sell a product or service. WHAT does
 the product do? HOW does it help the customer?
 
--  Write a good “lede”: When crafting your lede, consider how the information
+-  Write a good lede: When crafting your lede, consider how the information
    in your post helps customers. An announcement of a new product is not a
    lede, but that product’s money-saving capacity may well be one! For example:
 
@@ -109,7 +109,7 @@ the product do? HOW does it help the customer?
    Have we written about it before? Link to it. Mention a partner or customer?
    Link to their site.
 
--  Keep it concise: The internet have shrunken everyone’s attention span.
+-  Keep it concise: The Internet have shrunken everyone’s attention span.
    Say it once, say it well. No need to repeat the same information in
    different format. Similarly, keep paragraphs short. Long blocks of text
    are intimidating. Use concrete examples whenever possible. If you get stuck,
