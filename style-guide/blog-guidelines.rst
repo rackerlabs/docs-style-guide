@@ -18,6 +18,7 @@ This topic provides additional guidelines specific to writing blogs for the
 Rackspace Developer Blog site.
 
 
+
 Things to consider before writing a blog
 ----------------------------------------
 
