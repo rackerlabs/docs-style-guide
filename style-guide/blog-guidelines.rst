@@ -61,17 +61,19 @@ When you write your content, we recommend the following rules of thumb:
 -  Tools: We recommend using a word processor, like MicroSoft Word, or a text
    editor for your writing.
 
--  General Format:
+-  General format:
 
-   - an attention-grabbing opening, known in the news biz as a “lede”
+   - An attention-grabbing opening, known in the news biz as a “lede”
 
-   - a “nut graf” - a sentence or two letting readers know what you’re going
+   - A “nut graf” - a sentence or two letting readers know what you’re going
      to be talking about and why it matters
 
-   - some background information or context, such as the history of a product
+   - Some background information or context, such as the history of a product
 
-   - a conclusion (and a call to action, if appropriate) with links and contact
+   - A conclusion (and a call to action, if appropriate) with links and contact
      information
+
+Be consistent in style with other blogs on the Rackspace Developer Blog site.
 
 Bullet points are useful for listing features.
 
@@ -112,6 +114,52 @@ the product do? HOW does it help the customer?
    different format. Similarly, keep paragraphs short. Long blocks of text
    are intimidating. Use concrete examples whenever possible. If you get stuck,
    don’t fret. Just send your draft to the blog team. We’re here to help.
+
+
+Voice and tone
+--------------
+
+Use these guidelines to write a blog that is friendly, helpful, and inspires
+confidence.
+
+The primary job of the words in a blog is to help users complete tasks with no
+confusion and minimal interruption. However, the voice and tone that we use
+with words also influence how people think and feel about Rackspace.
+
+Voice is our style, and communicates our personality to the user. Tone is our
+mood, and communicates our attitude about the subject to the user.
+
+The words we choose, and the ways we use them, should reflect our goals:
+building trust, inspiring confidence, making things easier, and developing a
+relationship with Rackspace users.
+
+When you write blog text, use words that reflect the following attributes:
+
+- Human
+- Trustworthy
+- Knowledgeable
+- Accurate
+- Professional
+- Approachable
+- Helpful
+
+Consider the following best practices for voice and tone when you write blog
+text:
+
+- Write in a way that the user wants to be spoken to. Use helpful words and
+  phrases that are informative, simple, clear, and easy to understand.
+
+- Temper the enthusiasm conveyed in confirmation messages.
+
+- Be careful about laying blame. Don’t take the blame for a negative
+  situation. Don’t lay the blame of the negative situation on the user.
+
+- In positive situations, be encouraging and offer next steps. Don’t take
+  credit for the user’s success.
+
+- In negative situations, be clear about the problem and how the user can fix
+  it. Don’t ask the user to trust us without providing more information.
+
 
 
 Write to the user by using second person and imperative mood
