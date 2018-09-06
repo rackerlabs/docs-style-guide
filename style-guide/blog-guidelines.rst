@@ -93,45 +93,45 @@ When you write your content, we recommend the following rules of thumb:
   source, provide a Reference section at the bottom of the blog post with a
   link to the reference.
 
--  Think “be helpful” rather than trying to sell a product or service. *What*
-   does the product do? *How* does it help the customer?
+- Think “be helpful” rather than trying to sell a product or service. *What*
+  does the product do? *How* does it help the customer?
 
-   - Write a good lede: When crafting your lede, consider how the information
-     in your post helps customers. An announcement of a new product is not a
-     lede, but that product’s money-saving capacity may well be one. For
-     example:
+  - Write a good lede: When crafting your lede, consider how the information
+    in your post helps customers. An announcement of a new product is not a
+    lede, but that product’s money-saving capacity may well be one. For
+    example:
 
-     Not good: Today Rackspace is pleased to announce the release of four new
-     features in Office 365.
+    Not good: Today Rackspace is pleased to announce the release of four new
+    features in Office 365.
 
-     Good: Increased storage, security, and cost-saving measures are now
-     available to enhance the already-robust Office 365 suite available from
-     Rackspace, making it even more attractive to a wider variety of business
-     users.
+    Good: Increased storage, security, and cost-saving measures are now
+    available to enhance the already-robust Office 365 suite available from
+    Rackspace, making it even more attractive to a wider variety of business
+    users.
 
-   - Stay focused on your topic: If you find yourself straying, you may have
-     enough material for a series. It’s okay to break up a big topic into more
-     digestible bites. Formulas like How to, Top 5 or 10, and curated lists
-     tend to do well.
+  - Stay focused on your topic: If you find yourself straying, you may have
+    enough material for a series. It’s okay to break up a big topic into more
+    digestible bites. Formulas like How to, Top 5 or 10, and curated lists
+    tend to do well.
 
-   - Show don’t tell. Can you create a graphic or image, or add a screen shot
-     to illustrate your point?
+  - Show don’t tell. Can you create a graphic or image, or add a screen shot
+    to illustrate your point?
 
-   - Avoid jargon. Rackers (and the entire tech industry) tend to speak in
-     jargon. Unless your post is aimed at a technical audience, use plain
-     English. There is never a reason to use business jargon.
+  - Avoid jargon. Rackers (and the entire tech industry) tend to speak in
+    jargon. Unless your post is aimed at a technical audience, use plain
+    English. There is never a reason to use business jargon.
 
-   - Link link link: A first product mention? Link to the product page. Outside
-     accolades? Link to it. Citing a study or source or article? Link to it.
-     Have we written about it before? Link to it. Mention a partner or
-     customer? Link to their site.
+  - Link link link: A first product mention? Link to the product page. Outside
+    accolades? Link to it. Citing a study or source or article? Link to it.
+    Have we written about it before? Link to it. Mention a partner or
+    customer? Link to their site.
 
-   - Keep it concise: The Internet has shrunken everyone’s attention span.
-     Say it once, say it well. No need to repeat the same information in
-     different format. Similarly, keep paragraphs short. Long blocks of text
-     are intimidating. Use concrete examples whenever possible. If you get
-     stuck, don’t fret. Just send your draft to the blog team. We’re here to
-     help.
+  - Keep it concise: The Internet has shrunken everyone’s attention span.
+    Say it once, say it well. No need to repeat the same information in
+    different format. Similarly, keep paragraphs short. Long blocks of text
+    are intimidating. Use concrete examples whenever possible. If you get
+    stuck, don’t fret. Just send your draft to the blog team. We’re here to
+    help.
 
 
 Voice and tone
