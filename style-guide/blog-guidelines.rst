@@ -27,26 +27,27 @@ Before you start writing, consider the following questions:
 - What is the goal of this developer blog? Describe it in two sentences or
   less.
 
-  - Is it to be helpful and answer a question or offer a How-To?
+  - Is it to be helpful and answer a question or offer a how-to information?
   - Is it to provide “thought leadership” or show our expertise in an area?
     If so, describe what you’d like to convey.
   - Is it something else altogether? If so, what? It’s possible that your
     idea might be better presented as an article in a how-to article published
-    at https://support.rackspace.com/ or as a marketing blog published at
-    https://blog.rackspace.com/.
+    at https://support.rackspace.com/ or as a blog with a marketing flavor
+    published at https://blog.rackspace.com/.
 
-- What is the significance of the content of the blog? Is it a new offering?
-  How is it helpful to existing or potential customers? Does it frame our
+- What is the significance of the content of the blog? Is it how to use a new
+  offering? How is it helpful to customers? Does it frame our
   expertise is a new way?
 - Explain how the content of the blog aligns with, supports, or strengthens
   Rackspace’s current business priorities and strategy.
 - Who is the target audience for this blog?
 - What specific customer problems or pain points does the blog address?
   Provide names of customers willing to be references in support of the post.
-- Does the blogs describe something that Rackspace does better than the
-  competition or that no other competitor offers? Does the _blog provide
-  quantifiable and defensible information (such as performance metrics)
-  showing the Rackspace edge over the competition? If yes, explain.
+- Does the blog describe how to use something that Rackspace provides that
+  it does better than the competition or that no other competitor offers? Does
+  the blog provide quantifiable and defensible information (such as
+  performance metrics) showing the Rackspace edge over the competition? If
+  yes, explain.
 
 
 Blog writing suggestions
@@ -74,8 +75,8 @@ When you write your content, we recommend the following rules of thumb:
    - A conclusion (and a call to action, if appropriate) with links and contact
      information
 
-- Consistency: Be consistent in style with other blogs on the Rackspace
-  Developer Blog site.
+- Consistency: Be as consistent as possible in style with other blogs on the
+  Rackspace Developer Blog site.
 
 - Bullet points: Bullet points are useful for listing features.
 
@@ -86,49 +87,52 @@ When you write your content, we recommend the following rules of thumb:
   - Any image pulled from another source should provide a reference to the
     source directly underneath the image.
   - Add social media icons with their links for twitter, Facebook, and
-    LinkedIn at the bottom of the blog post.
+    LinkedIn at the bottom of the blog post. (Information Development provides
+    a template for this that you can add to your blog.)
 
 - Reference section: If your content uses a lot of content from another
   source, provide a Reference section at the bottom of the blog post with a
-   link to the reference.
+  link to the reference.
 
-Think “be helpful” rather than trying to sell a product or service. *What* does
-the product do? *How* does it help the customer?
+-  Think “be helpful” rather than trying to sell a product or service. *What*
+   does the product do? *How* does it help the customer?
 
--  Write a good lede: When crafting your lede, consider how the information
-   in your post helps customers. An announcement of a new product is not a
-   lede, but that product’s money-saving capacity may well be one! For example:
+   - Write a good lede: When crafting your lede, consider how the information
+     in your post helps customers. An announcement of a new product is not a
+     lede, but that product’s money-saving capacity may well be one. For
+     example:
 
-   Not good: “Today Rackspace is pleased to announce the release of four new
-   features in Office 365.”
+     Not good: Today Rackspace is pleased to announce the release of four new
+     features in Office 365.
 
-   Good: “Increased storage, security, and cost-saving measures are now
-   available to enhance the already-robust Office 365 suite available from
-   Rackspace, making it even more attractive to a wider variety of business
-   users.”
+     Good: Increased storage, security, and cost-saving measures are now
+     available to enhance the already-robust Office 365 suite available from
+     Rackspace, making it even more attractive to a wider variety of business
+     users.
 
--  Stay focused on your topic: If you find yourself straying, you may have
-   enough material for a series. It’s okay to break up a big topic into more
-   digestible bites. Formulas like How to, Top 5 or 10, and curated lists tend
-   to do well.
+   - Stay focused on your topic: If you find yourself straying, you may have
+     enough material for a series. It’s okay to break up a big topic into more
+     digestible bites. Formulas like How to, Top 5 or 10, and curated lists
+     tend to do well.
 
--  Show don’t tell. Can you create a graphic or image, or add a screen shot to
-   illustrate your point?
+   - Show don’t tell. Can you create a graphic or image, or add a screen shot
+     to illustrate your point?
 
--  Avoid jargon. Rackers (and the entire tech industry) tend to speak in
-   jargon. Unless your post is aimed at a technical audience, use plain
-   English. There is never a reason to use business jargon.
+   - Avoid jargon. Rackers (and the entire tech industry) tend to speak in
+     jargon. Unless your post is aimed at a technical audience, use plain
+     English. There is never a reason to use business jargon.
 
--  Link link link: A first product mention? Link to the product page. Outside
-   accolades? Link to it. Citing a study or source or article? Link to it.
-   Have we written about it before? Link to it. Mention a partner or customer?
-   Link to their site.
+   - Link link link: A first product mention? Link to the product page. Outside
+     accolades? Link to it. Citing a study or source or article? Link to it.
+     Have we written about it before? Link to it. Mention a partner or
+     customer? Link to their site.
 
--  Keep it concise: The Internet has shrunken everyone’s attention span.
-   Say it once, say it well. No need to repeat the same information in
-   different format. Similarly, keep paragraphs short. Long blocks of text
-   are intimidating. Use concrete examples whenever possible. If you get stuck,
-   don’t fret. Just send your draft to the blog team. We’re here to help.
+   - Keep it concise: The Internet has shrunken everyone’s attention span.
+     Say it once, say it well. No need to repeat the same information in
+     different format. Similarly, keep paragraphs short. Long blocks of text
+     are intimidating. Use concrete examples whenever possible. If you get
+     stuck, don’t fret. Just send your draft to the blog team. We’re here to
+     help.
 
 
 Voice and tone
