@@ -31,8 +31,9 @@ Before you start writing, consider the following questions:
   - Is it to provide “thought leadership” or show our expertise in an area?
     If so, describe what you’d like to convey.
   - Is it something else altogether? If so, what? It’s possible that your
-    idea might be better presented as an article in the How-To or as a
-    technical or marketing white paper.
+    idea might be better presented as an article in a how-to article published
+    at https://support.rackspace.com/ or as a marketing blog published at
+    https://blog.rackspace.com/.
 
 - What is the significance of the content of the blog? Is it a new offering?
   How is it helpful to existing or potential customers? Does it frame our
@@ -73,12 +74,26 @@ When you write your content, we recommend the following rules of thumb:
    - A conclusion (and a call to action, if appropriate) with links and contact
      information
 
-Be consistent in style with other blogs on the Rackspace Developer Blog site.
+- Consistency: Be consistent in style with other blogs on the Rackspace
+  Developer Blog site.
 
-Bullet points are useful for listing features.
+- Bullet points: Bullet points are useful for listing features.
 
-Think “be helpful” rather than trying to sell a product or service. WHAT does
-the product do? HOW does it help the customer?
+- Images:
+
+  - Any image included in the blog post should contribute to the content of
+    that specific blog.
+  - Any image pulled from another source should provide a reference to the
+    source directly underneath the image.
+  - Add social media icons with their links for twitter, Facebook, and
+    LinkedIn at the bottom of the blog post.
+
+- Reference section: If your content uses a lot of content from another
+  source, provide a Reference section at the bottom of the blog post with a
+   link to the reference.
+
+Think “be helpful” rather than trying to sell a product or service. *What* does
+the product do? *How* does it help the customer?
 
 -  Write a good lede: When crafting your lede, consider how the information
    in your post helps customers. An announcement of a new product is not a
@@ -100,7 +115,7 @@ the product do? HOW does it help the customer?
 -  Show don’t tell. Can you create a graphic or image, or add a screen shot to
    illustrate your point?
 
--  Avoid jargon! Rackers (and the entire tech industry) tend to speak in
+-  Avoid jargon. Rackers (and the entire tech industry) tend to speak in
    jargon. Unless your post is aimed at a technical audience, use plain
    English. There is never a reason to use business jargon.
 
@@ -109,7 +124,7 @@ the product do? HOW does it help the customer?
    Have we written about it before? Link to it. Mention a partner or customer?
    Link to their site.
 
--  Keep it concise: The Internet have shrunken everyone’s attention span.
+-  Keep it concise: The Internet has shrunken everyone’s attention span.
    Say it once, say it well. No need to repeat the same information in
    different format. Similarly, keep paragraphs short. Long blocks of text
    are intimidating. Use concrete examples whenever possible. If you get stuck,
