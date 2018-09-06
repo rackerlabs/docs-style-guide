@@ -26,11 +26,11 @@ Before you start writing, consider the following questions:
 - What is the goal of this developer blog? Describe it in two sentences or
   less.
 
-  - Is it to be helpful and answer a question or offer a how-to information?
+  - Is it to be helpful and answer a question or offer how-to information?
   - Is it to provide “thought leadership” or show our expertise in an area?
     If so, describe what you’d like to convey.
   - Is it something else altogether? If so, what? It’s possible that your
-    idea might be better presented as an article in a how-to article published
+    idea might be better presented as an article on the How-To support site
     at https://support.rackspace.com/ or as a blog with a marketing flavor
     published at https://blog.rackspace.com/.
 
@@ -59,8 +59,8 @@ When you write your content, we recommend the following rules of thumb:
    don’t pad it unnecessarily. Going long is okay, too, as long as it’s worth
    reading.
 
--  Tools: We recommend using a word processor, like Microsoft Word, or a text
-   editor for your writing.
+-  Tools: Use the word processor or text editor of your choice to write the
+   blog.
 
 -  General format:
 
