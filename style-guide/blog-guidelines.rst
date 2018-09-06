@@ -1,0 +1,128 @@
+.. _blog-guidelines:
+
+===============
+Blog guidelines
+===============
+
+Developers often ask for an Information Developer to edit a blog that they
+have written and placed in the
+https://github.com/rackerlabs/docs-developer-blog repository. Blogs in this
+repository are published to the Rackspace Developer Blog site at
+https://developer.rackspace.com/blog/.
+
+This topic provides guidelines for writing blogs for the Rackspace Developer
+Blog.
+
+
+Things to consider before writing a blog
+----------------------------------------
+
+Before you start writing, consider the following questions:
+
+- What is the goal of this developer blog? Describe it in two sentences or
+  less.
+
+  - Is it to be helpful and answer a question or offer a How-To?
+  - Is it to provide “thought leadership” or show our expertise in an area?
+    If so, describe what you’d like to convey.
+  - Is it something else altogether? If so, what? It’s possible that your
+    idea might be better presented as an article in the How-To or as a
+    technical or marketing white paper.
+
+- What is the significance of the content of the blog? Is it a new offering?
+  How is it helpful to existing or potential customers? Does it frame our
+  expertise is a new way?
+- Explain how the content of the blog aligns with, supports, or strengthens
+  Rackspace’s current business priorities and strategy.
+- Who is the target audience for this blog?
+- What specific customer problems or pain points does the blog address?
+  Provide names of customers willing to be references in support of the post.
+- Does the blogs describe something that Rackspace does better than the
+  competition or that no other competitor offers? Does the _blog provide
+  quantifiable and defensible information (such as performance metrics)
+  showing the Rackspace edge over the competition? If yes, explain.
+
+
+Blog writing suggestions
+------------------------
+
+When you write your content, we recommend the following rules of thumb:
+
+-  Length: Rackspace blog posts generally run between 500-1,000 words, but let
+   the content be your guide. Take the space you need to tell your story, but
+   don’t pad it unnecessarily. Going long is okay, too, as long as it’s worth
+   reading.
+
+-  Tools: We recommend using a word processor, like MicroSoft Word, or a text
+   editor for your writing.
+
+-  General Format:
+
+   - an attention-grabbing opening, known in the news biz as a “lede”
+
+   - a “nut graf” - a sentence or two letting readers know what you’re going
+     to be talking about and why it matters
+
+   - some background information or context, such as the history of a product
+
+   - a conclusion (and a call to action, if appropriate) with links and contact
+     information
+
+Bullet points are useful for listing features.
+
+Think “be helpful” rather than trying to sell a product or service. WHAT does
+the product do? HOW does it help the customer?
+
+-  Write a good “lede”: When crafting your lede, consider how the information
+   in your post helps customers. An announcement of a new product is not a
+   lede, but that product’s money-saving capacity may well be one! For example:
+
+   Not good: “Today Rackspace is pleased to announce the release of four new
+   features in Office 365.”
+
+   Good: “Increased storage, security, and cost-saving measures are now
+   available to enhance the already-robust Office 365 suite available from
+   Rackspace, making it even more attractive to a wider variety of business
+   users.”
+
+-  Stay focused on your topic: If you find yourself straying, you may have
+   enough material for a series. It’s okay to break up a big topic into more
+   digestible bites. Formulas like How to, Top 5 or 10, and curated lists tend
+   to do well.
+
+-  Show don’t tell. Can you create a graphic or image, or add a screen shot to
+   illustrate your point?
+
+-  Avoid jargon! Rackers (and the entire tech industry) tend to speak in
+   jargon. Unless your post is aimed at a technical audience, use plain
+   English. There is never a reason to use business jargon.
+
+-  Link link link: A first product mention? Link to the product page. Outside
+   accolades? Link to it. Citing a study or source or article? Link to it.
+   Have we written about it before? Link to it. Mention a partner or customer?
+   Link to their site.
+
+-  Keep it concise: The internet have shrunken everyone’s attention span.
+   Say it once, say it well. No need to repeat the same information in
+   different format. Similarly, keep paragraphs short. Long blocks of text
+   are intimidating. Use concrete examples whenever possible. If you get stuck,
+   don’t fret. Just send your draft to the blog team. We’re here to help.
+
+
+Write to the user by using second person and imperative mood
+------------------------------------------------------------
+
+Users are more engaged with content when it talks to them directly. You
+talk to users directly by using *second person*, addressing the user as
+*you*. Second person also promotes a friendly tone. For more information, see
+:ref:`write-to-the-user`.
+
+The following guidelines for writing to the user apply specifically to the
+Rackspace developer blogs:
+
+-  For blogs, use the first-person singular pronoun *I* only when authors of
+   blogs are describing their own actions or opinions.
+
+-  Switching person (point of view) is acceptable in blog posts that use
+   first-person singular but then switch to second person for instructional
+   steps.
