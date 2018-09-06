@@ -4,14 +4,18 @@
 Blog guidelines
 ===============
 
-Developers often ask for an Information Developer to edit a blog that they
+Developers often ask an Information Developer to edit a blog that they
 have written and placed in the
 https://github.com/rackerlabs/docs-developer-blog repository. Blogs in this
 repository are published to the Rackspace Developer Blog site at
 https://developer.rackspace.com/blog/.
 
-This topic provides guidelines for writing blogs for the Rackspace Developer
-Blog.
+When you write a blog, use the writing guidelines in this Style Guide as you
+would with other documentation that is curated by the Information Development
+team. Start with the information in the :ref:`quickstart`.
+
+This topic provides additional guidelines specific to writing blogs for the
+Rackspace Developer Blog site.
 
 
 Things to consider before writing a blog
