@@ -179,7 +179,6 @@ text:
   it. Don’t ask the user to trust us without providing more information.
 
 
-
 Write to the user by using second person and imperative mood
 ------------------------------------------------------------
 
