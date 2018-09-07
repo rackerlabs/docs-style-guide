@@ -81,8 +81,9 @@ When you write your content, we recommend the following rules of thumb:
 
 - Images:
 
-  - Any image included in the blog post should contribute to the content of
-    that specific blog.
+  - Images should directly support or illustrate blog content. Examples
+    include a screen shot, diagram, or table that illustrates the concept or
+    technique that is being described.
   - Any image pulled from another source should provide a reference to the
     source directly underneath the image.
   - Add social media icons with their links for twitter, Facebook, and
