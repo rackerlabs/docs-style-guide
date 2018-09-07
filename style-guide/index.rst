@@ -33,6 +33,11 @@ customers.
    Provides instructions for when to use and how to create screenshots and
    diagrams to enhance your content.
 
+:ref:`blog-guidelines`
+   Provides instructions specifically for blogs for the Rackspace Developer
+   Blog that is published at https://developer.rackspace.com/blog/. Use these
+   guidelines when writing any developer blog for this site.
+
 :ref:`release-notes-guidelines`
    Provides instructions specifically for writing release notes for Rackspace
    Cloud services APIs. You can use these basic guidelines, however, when
@@ -49,6 +54,7 @@ customers.
    markup-guidelines.rst
    terminology/index.rst
    screenshots/index.rst
+   blog-guidelines.rst
    release-notes-guidelines.rst
    revision-history.rst
 
