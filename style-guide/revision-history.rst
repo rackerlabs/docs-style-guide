@@ -4,6 +4,17 @@ Style guide revision history
 
 This file summarizes the changes that have been made to the style guide.
 
+September 25, 2018 (End of Q3 release)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Added :ref: `blog-guidelines`.
+
+- Added *username* to alphabetical word list.
+
+  The term *username* was added where *user name* is already listed. Use
+  *username* as one word if that is how it appears in a user interface,
+  screen, or command that you are documenting.
+
 June 29, 2018 (End of Q2 release)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

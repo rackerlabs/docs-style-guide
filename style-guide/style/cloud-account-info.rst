@@ -7,7 +7,7 @@ Cloud account information
 In examples of API authentication requests, and other examples where we
 are teaching the use of the API and expect that users might copy the
 code and use it, use variables or the following standard values for
-account numbers, user names, passwords, API keys, and so on. Format the
+account numbers, usernames, passwords, API keys, and so on. Format the
 variables by using camelCase and italics, and also use bold within the
 examples.
 

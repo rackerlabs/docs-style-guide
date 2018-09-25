@@ -29,7 +29,7 @@ When creating placeholder text, use the following guidelines.
 .. note::
 
    For specific information about showing placeholders for
-   account information such as account numbers, user names, passwords, and
+   account information such as account numbers, usernames, passwords, and
    API keys, see :ref:`cloud-account-info`.
 
 .. list-table::

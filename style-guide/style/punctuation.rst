@@ -100,11 +100,11 @@ grammar reference, such as the *Harbrace College Handbook*.
      - The hourly backups are rolled into a nightly backup, which is retained
        for two days. *(nonrestrictive)*
 
-       Enter the user name and password that you just created. *(restrictive)*
+       Enter the username and password that you just created. *(restrictive)*
      - The hourly backups are rolled into a nightly backup which is retained
        for two days.
 
-       Enter the user name and password, that you just created.
+       Enter the username and password, that you just created.
    * - Use a comma to separate an introductory word, phrase, or clause from the
        rest of the sentence.
      - When you check your email with an IMAP connection, you're accessing and
