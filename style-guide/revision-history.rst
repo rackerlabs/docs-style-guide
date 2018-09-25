@@ -7,7 +7,7 @@ This file summarizes the changes that have been made to the style guide.
 September 25, 2018 (End of Q3 release)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Added :ref: `blog-guidelines`.
+- Added :ref:`blog-guidelines`.
 
 - Added *username* to alphabetical word list.
 
