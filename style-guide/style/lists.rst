@@ -162,7 +162,7 @@ required:
 
 - Rackspace Cloud account. To sign up for a Rackspace Cloud account, go to the
   Rackspace Public Cloud signup page.
-- Rackspace user name and password that you specified during registration.
+- Rackspace username and password that you specified during registration.
 
 List that provides terms and more information, example
 ------------------------------------------------------

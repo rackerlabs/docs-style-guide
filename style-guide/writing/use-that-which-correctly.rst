@@ -22,8 +22,8 @@ set off a nonrestrictive clause with commas and the relative pronoun
      - Nonrestrictive clause
    * - He hired the man **who came from Kansas**. (Not the man from Idaho)
      - Jackhammers, **which are useful for breaking up concrete**, are on sale.
-   * - Enter the user name and password **that you just created**. (Not the
-       user name and password that you created last month)
+   * - Enter the username and password **that you just created**. (Not the
+       username and password that you created last month)
      - The hourly backups are rolled into a nightly backup, **which is retained
        for two days**.
 
@@ -42,10 +42,10 @@ Be sure to clarify restrictive clauses, as follows:
 
    * - Use
      - Avoid
-   * - Enter the user name and password **that you just created**.
-     - Enter the user name and password **you just created**.
+   * - Enter the username and password **that you just created**.
+     - Enter the username and password **you just created**.
 
-       Enter the user name and password **which you just created**.
+       Enter the username and password **which you just created**.
    * - A task presents **information that a user needs** to achieve a
        specific goal.
      - A task presents **information a user needs** to achieve a specific

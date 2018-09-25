@@ -2596,7 +2596,7 @@ parts of speech:
 
        *Use:*
 
-       Enter the user name and password that you just created. (restrictive)
+       Enter the username and password that you just created. (restrictive)
 
        The hourly backups are rolled into a nightly backup, which is retained
        for two days. (nonrestrictive)
@@ -2761,9 +2761,10 @@ parts of speech:
      - Avoid
      - Use *customer* to refer to individuals who use Rackspace products and
        services.
-   * - user name
+   * - user name or username
      -
-     - Use *user name* as two words.
+     - Use *user name* as two words, unless you are referring to a user
+       interface, screen, or command where it is shown as one word, *username*.
    * - using, by using, with
      -
      - Use *by using*, or recast the sentence. Don't use *using* (alone) or
