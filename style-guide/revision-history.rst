@@ -2,7 +2,7 @@
 Style guide revision history
 ============================
 
-This file summarizes the changes that have been made to the style\
+This file summarizes the changes that have been made to the style
 guide.
 
 September 25, 2018 (End of Q3 release)
@@ -19,7 +19,7 @@ September 25, 2018 (End of Q3 release)
 June 29, 2018 (End of Q2 release)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Added use of :ref:`use-gender-neutral-pronouns`.
+-  Added :ref:`use-gender-neutral-pronouns`.
 
 -  Added to the word list including the following words:
 
