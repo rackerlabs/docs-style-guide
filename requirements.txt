@@ -24,7 +24,7 @@ pyenchant==1.6.8
 Pygments==2.2.0
 pytz==2016.10
 PyYAML==3.11
-requests==2.13.0
+requests==2.20.0
 restructuredtext-lint==0.17.2
 singledispatch==3.4.0.3
 six==1.10.0
@@ -38,3 +38,4 @@ tornado==4.3
 tox==2.6.0
 virtualenv==15.1.0
 wheel==0.24.0
+
