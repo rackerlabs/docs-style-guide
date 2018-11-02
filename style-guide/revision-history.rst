@@ -5,6 +5,12 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+November 2, 2018
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Updated :ref:`trademarks` to have many more trademarks listed as well as
+  links to commonly-used company trademark pages to look up trademarks.
+
 September 25, 2018 (End of Q3 release)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

@@ -23,9 +23,9 @@ content.
    Lists typical wordy terms and phrases and provides shorter alternatives that
    you can use instead.
 
-:ref:`third-party-names-and-trademarks`
-   Shows the correct spelling and capitalization of third-party names and
-   trademarks.
+:ref:`trademarks`
+   Shows the correct spelling, capitalization, and trademarks for Rackspace
+   and third-party trademarks.
 
 .. toctree::
    :hidden:

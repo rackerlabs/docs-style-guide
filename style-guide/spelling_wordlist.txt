@@ -16,11 +16,13 @@ architected
 aren
 asettle
 Async
+Atlassian
 autoconfiguration
 backports
 Balancer
 balancer
 Balancers
+Bitbucket
 blog
 blogging
 blogs
@@ -40,6 +42,9 @@ changelog
 Cheatsheet
 checksyntax
 ci
+Cisco
+Citrix
+Cloudera
 colocate
 colocation
 conditionalize
@@ -81,6 +86,7 @@ el
 Elasticsearch
 entityId
 env
+Equinix
 erikmwilson
 Esc
 eth
@@ -93,9 +99,11 @@ Fillmon
 findability
 Fireuploader
 firewalld
+Fluentd
 frontmatter
 fw
 Galera
+Gartner
 GaRzOmhzr
 Gerrit
 getcarina
@@ -111,8 +119,11 @@ gscreendemp
 Hadoop
 Harbrace
 hasn
+Hawq
+HBase
 hoc
 Hong
+Hortonworks
 html
 http
 https
@@ -140,6 +151,7 @@ ipv
 iSCSI
 isn
 Jing
+Jira
 JRobinson
 js
 json
@@ -149,6 +161,7 @@ Kibana
 kilobits
 Kitematic
 klevenstein
+Kubernetes
 Laffoon
 LBaaS
 lede
@@ -166,6 +179,7 @@ Logstash
 Lookabaugh
 loquacities
 MaaS
+macOS
 Makefile
 masq
 matrixes
@@ -173,11 +187,13 @@ Mbps
 md
 mdsuffix
 Medrano
+Magento
 meker
 memcache
 Memcached
 meridiem
 metadata
+Metacloud
 middleware
 midsentence
 mm
@@ -213,6 +229,7 @@ overcapitalization
 PaaS
 Pandoc
 parsedoc
+Percona
 permalink
 phpMyAdmin
 playbook
@@ -235,6 +252,7 @@ Rackspace
 rackspace
 rc
 rcs
+Redis
 Regionalized
 Rendon
 repo
@@ -258,6 +276,7 @@ rubygems
 runtime
 rvxln
 SaaS
+Salesforce
 Santamaria
 Scalability
 scalability
@@ -276,6 +295,8 @@ Shorewall
 shorewall
 shouldn
 signup
+Sitecore
+Skype
 snet
 spam
 SQLite
@@ -317,8 +338,11 @@ uptime
 url
 username
 usernames
+vCenter
 vCPU
+vCloud
 venv
+vRealize
 Versioned
 versioned
 versioned
@@ -330,6 +354,8 @@ VMware
 vN
 vn
 Vn
+vSAN
+vSphere
 vxlan
 Vyatta
 webhook
