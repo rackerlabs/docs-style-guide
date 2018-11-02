@@ -4,17 +4,15 @@
 Third-party names and trademarks
 ================================
 
-For legal reasons, you must show third-party names and trademarks
-correctly. The following table shows common third-party names used in
+For legal reasons, you must show third-party *names* and *trademarks*
+correctly.
+
+For more information specifically about third-party **trademarks**, see
+:ref:`trademarks`.
+
+The following table shows common third-party **names** used in
 Rackspace content in the format they should be used. Common misuses are
 also provided.
-
-.. note::
-
-   To see if there is a trademark or registered trademark for a new company
-   or software name that you use in your content, it's always a good idea to do
-   research on the Internet and make sure that you are following any specified
-   trademark guidelines.
 
 .. list-table::
    :widths: 30 70
@@ -22,53 +20,40 @@ also provided.
 
    * - Correct name
      - Notes
-   * - Apache
-     - Apache is a trademark, so it must always be spelled and capitalized as shown.
+   * - Amazon, Amazon Web Services (AWS), AWS Data Pipeline
+     - Amazon products are service marks as opposed to trademarks. For more
+       information, see https://aws.amazon.com/trademark-guidelines/
    * - Bash shell
      - The Bash documentation capitalizes Bash.
-   * - CentOS
+   * - Common Security Framework (CSF)
      -
    * - Fireuploader
-     - Most common spelling and capitalization used for the short name of Firefox Universal Uploader
+     - Most common spelling and capitalization used for the short name of Firefox Universal Uploader.
    * - Git
      -
    * - GitHub
      -
-   * - Java
+   * - Health Information Technology for Economic and Clinical Health Act (HITECH)
+     -
+   * - Health Insurance Portability and Accountability Act (HIPAA)
+     -
+   * - Kibana
      -
    * - lighttpd
      -
-   * - Linux
-     - Linux is a trademark, so it must always be spelled and capitalized as shown.
-   * - Mac OS X
+
+   * - Memcached
      -
-   * - MariaDB
-     -
-   * - Microsoft
-     - Do not abbreviate this name to MS.
-   * - MongoDB
-     -
-   * - MySQL
-     -
-   * - NGINX
-     - This name is variously shown as nginx, Nginx, and NGINX on the company's website. However, NGINX is a registered trademark of Nginx, Inc.
-   * - OpenStack
-     -
-   * - PostgreSQL
+   * - National Institute of Standards and Technology (NIST)
      -
    * - PuTTY
-     - PuTTY is a trademark, so it must always be spelled and capitalized as shown.
+     - PuTTY must always be spelled and capitalized as shown.
    * - Python
-     - Python is a trademark, so it must always be spelled and capitalized as shown, unless you are showing the literal usage of the term on a command line.
-   * - Red Hat Enterprise Linux
-     - Red Hat and Enterprise Linux are trademarks, so they must always be spelled and capitalized as shown. Do not abbreviate to RHEL. After the first use of Red Hat Enterprise Linux in an article or chapter, you can use just Red Hat if there is no possible confusion with another Red Hat product.
+     - Python must always be spelled and capitalized as shown, unless you are
+       showing the literal usage of the term on a command line.
+   * - OnMetal
+     -
    * - SharePoint
      -
-   * - SQL Server
-     - On the first occurrence of this trademarked product name, use Microsoft SQL Server. After that, you can use just SQL Server. Do not abbreviate to MSSQL or MS SQL.
-   * - Ubuntu
-     - Ubuntu is a trademark, so it must always be spelled and capitalized as shown.
-   * - UNIX
-     - UNIX is a trademark, so it must always be spelled and capitalized as shown. Do not use Unix.
    * - WordPress
      -
