@@ -436,7 +436,7 @@ parts of speech:
        *network*. If you need to use the term, show it as noted.
    * - backslash
      -
-     - Use *backslash* to refer to the _\ character, and use *slash* to refer
+     - Use *backslash* to refer to the \\ character, and use *slash* to refer
        to the / character. Don't use *slash mark*.
    * - back up (v), backup (adj, n)
      -
@@ -1344,7 +1344,7 @@ parts of speech:
    * - forward slash
      - Don't use
      - Use *slash* to refer to the / character. Use *backslash* to refer to
-       the \ character.
+       the \\ character.
    * - free
      - Restricted
      - Don't use *free* when describing the availability of Rackspace products
@@ -2497,11 +2497,11 @@ parts of speech:
    * - slash
      -
      - Use *slash* to refer to the / character, and use *backslash* to refer
-       to the \ character. Don't use *slash mark*.
+       to the \\ character. Don't use *slash mark*.
    * - slash mark
      - Don't use
      - Use *slash* to refer to the / character, and use *backslash* to
-       refer to \ the character.
+       refer to \\ the character.
    * - software as a service (SaaS)
      -
      - Note the capitalization of the spelled-out term and the abbreviation. On
