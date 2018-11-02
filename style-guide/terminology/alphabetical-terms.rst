@@ -436,8 +436,8 @@ parts of speech:
        *network*. If you need to use the term, show it as noted.
    * - backslash
      -
-     - Use *backslash* to refer to the character. Use *slash* to refer to the /
-       character. Don't use *slash mark*.
+     - Use *backslash* to refer to the \ character, and use *slash* to refer
+       to the / character. Don't use *slash mark*.
    * - back up (v), backup (adj, n)
      -
      - *Use:*
@@ -1186,7 +1186,8 @@ parts of speech:
        - *be sure*
        - *insure* (which means to guarantee financially against risk)
        - *make sure*
-   * - error message
+   * - error message (For formatting information for error messages, see
+       :ref:`text-formatting`.)
      -
      - Use *error message*, and not *error* alone, to refer to the message that
        notifies customers of an error.
@@ -1196,12 +1197,12 @@ parts of speech:
 
        *Use:*
 
-       You might see the ``Connection timed out – please try again`` error
+       You might see the ``Connection timed out – please try again.`` error
        message because your browser is storing an invalid cookie.
 
        *Don't use:*
 
-       You might see the ``Connection timed out – please try again`` error
+       You might see the ``Connection timed out – please try again.`` error
        because your browser is storing an invalid cookie.
    * - etc.
      - Don't use
@@ -1343,7 +1344,7 @@ parts of speech:
    * - forward slash
      - Don't use
      - Use *slash* to refer to the / character. Use *backslash* to refer to
-       the character.
+       the \ character.
    * - free
      - Restricted
      - Don't use *free* when describing the availability of Rackspace products
@@ -2495,12 +2496,12 @@ parts of speech:
        See also *as, since (restricted use)*.
    * - slash
      -
-     - Use *slash* to refer to the / character. Use *backslash* to refer to
-       the character. Don't use *slash mark*.
+     - Use *slash* to refer to the / character, and use *backslash* to refer
+       to the \ character. Don't use *slash mark*.
    * - slash mark
      - Don't use
-     - Use *slash* to refer to the / character, and use *backslash* to refer to
-       the character.
+     - Use *slash* to refer to the / character, and use *backslash* to
+       refer to \ the character.
    * - software as a service (SaaS)
      -
      - Note the capitalization of the spelled-out term and the abbreviation. On

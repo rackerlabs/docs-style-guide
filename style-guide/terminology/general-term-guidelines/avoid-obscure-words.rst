@@ -25,7 +25,7 @@ avoid, and their preferred alternatives.
      - according to, by way of
 
        **Note**: The use of *per* to mean *for each* is acceptable and is
-       preferable to using a slash mark.
+       preferable to using a slash.
    * - via
      - through
    * - vs.
