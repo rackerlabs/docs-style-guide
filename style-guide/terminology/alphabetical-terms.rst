@@ -436,7 +436,7 @@ parts of speech:
        *network*. If you need to use the term, show it as noted.
    * - backslash
      -
-     - Use *backslash* to refer to the \ character, and use *slash* to refer
+     - Use *backslash* to refer to the _\ character, and use *slash* to refer
        to the / character. Don't use *slash mark*.
    * - back up (v), backup (adj, n)
      -
