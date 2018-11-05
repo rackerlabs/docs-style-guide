@@ -38,6 +38,12 @@ customers.
    Blog that is published at https://developer.rackspace.com/blog/. Use these
    guidelines when writing any developer blog for this site.
 
+:ref:`error-message-guidelines`
+   Provides guidelines specifically for error messages in Rackspace
+   internal and external documentation. You can share these guidelines with
+   development teams that you are working with as an Information Developer
+   and use them as you review error messages written by development teams.
+
 :ref:`release-notes-guidelines`
    Provides instructions specifically for writing release notes for Rackspace
    Cloud services APIs. You can use these basic guidelines, however, when
@@ -55,6 +61,7 @@ customers.
    terminology/index.rst
    screenshots/index.rst
    blog-guidelines.rst
+   error-message-guidelines.rst
    release-notes-guidelines.rst
    revision-history.rst
 

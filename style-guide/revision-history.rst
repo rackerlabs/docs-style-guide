@@ -8,6 +8,7 @@ guide.
 November 5, 2018
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- Added :ref:`error-message-guidelines`.
 - Updated occurrences of the backslash symbol to be properly escaped
   (double backslash) in order for them to display in :ref:`symbols` and
   :ref:`alphabetical-list-of-terms`.

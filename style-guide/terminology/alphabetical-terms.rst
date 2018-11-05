@@ -1186,8 +1186,8 @@ parts of speech:
        - *be sure*
        - *insure* (which means to guarantee financially against risk)
        - *make sure*
-   * - error message (For formatting information for error messages, see
-       :ref:`text-formatting`.)
+   * - error message (For more information, see
+       :ref:`error-message-guidelines`.)
      -
      - Use *error message*, and not *error* alone, to refer to the message that
        notifies customers of an error.
