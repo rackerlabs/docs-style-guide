@@ -17,7 +17,6 @@ Rackspace development teams.
 This information is also available in the
 `Helix documentation <http://helix.rax.io/style/alert-messages.html>`_.
 
-
 General guidelines
 ------------------
 
