@@ -15,7 +15,7 @@ apply:
    conjunction (such as *and*).
 -  Avoid using semicolons. You can almost always use a period in the place of a
    semicolon.
--  Don't use a slash mark (/) to present a choice among, or a series
+-  Don't use a slash (/) to present a choice among, or a series
    of, actions or objects. Rewrite the phrase to eliminate the slash
    mark. Exceptions are established terms like *client/server* and
    *read/write*.

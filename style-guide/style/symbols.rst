@@ -25,7 +25,7 @@ For guidelines about using specific marks of punctuation, see
 
        If the symbol is a common mark of punctuation, like a period or a comma,
        don't show the mark in parentheses.
-     - Escape the line by typing a backslash (/) character.
+     - Escape the line by typing a backslash (\\) character.
 
        To find files that were modified more than two days ago, type a plus
        sign (+) in front of the 2.
