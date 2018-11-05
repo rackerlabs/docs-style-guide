@@ -5,12 +5,11 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
-
 November 5, 2018
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Updated occurrences of the backslash symbol to be properly escaped
-  (\\) in order for them to display in :ref:`symbols` and
+  (double backslash) in order for them to display in :ref:`symbols` and
   :ref:`alphabetical-list-of-terms`.
 
 November 2, 2018
