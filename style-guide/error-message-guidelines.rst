@@ -71,6 +71,9 @@ panel.
      - Provide a name for each domain. *null* isn’t a valid domain name.
      - You must provide a name for each domain and *null* isn’t a valid
        name.
+   * - Use proper punctuation. For guidelines, see :ref:`punctuation`.
+     - ``FED2-013: Token expiration cannot exceed seconds.``
+     - ``FED2-013; Token expiration cannot exceed seconds.``
    * - Avoid using only uppercase letters.
 
        Lines with excessive capitalization
