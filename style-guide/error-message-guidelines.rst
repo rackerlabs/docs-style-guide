@@ -87,14 +87,14 @@ panel.
    * - When possible, include a recommendation, either a potential fix or a
        reference to a document for more information.
 
-       Messages should provide specific information about how the user should continue.
+       Messages should provide specific information about how the user should
+       continue.
      - The system is out of virtual IP addresses. Contact Support so they can
        allocate more virtual IP addresses.
-       addresses.
 
        The value -1.0 can’t be accepted. Specify a positive integer value for
        the volume size.
-     - The system is out of virtual IP.
+     - The system is out of virtual IP addresses.
 
        The value -1.0 can’t be accepted.
    * - Be specific and provide as much detailed information as possible.
