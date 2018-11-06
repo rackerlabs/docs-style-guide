@@ -15,9 +15,14 @@ PDF <https://one.rackspace.com/pages/worddav/preview.action?fileName=RACKSPACE-%
 If you're interested in only what you need to know to comply with
 guidelines in your documentation, review the guidelines in this topic.
 
+Also, you can check out the Rackspace Legal wiki page for
+`trademark information <https://one.rackspace.com/display/legal/Trademarks>`_.
+
 .. note::
    Show the trademark (™) or registered trademark (®) symbol for the first
    occurrence of the word in a document.
+   
+  
 
 Examples of Rackspace trademarks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
