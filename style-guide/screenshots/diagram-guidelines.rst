@@ -56,7 +56,7 @@ Download Rackspace's library of product icons and stencils. These icons
 and stencils are considered **objects**.
 
 -  The product icons are blue and are located in `this zip
-   file <https://github.com/rackerlabs/docs-rackspace/blob/master/doc/style-guide/images/zip/ProductIcons.zip>`__.
+   file <https://github.com/rackerlabs/docs-style-guide/blob/master/style-guide/screenshots/images/zip/ProductIcons.zip>`__.
 
 -  Stencils are used to represent certain functions and hardware such as
    the world wide web or a server. These stencils are black and are
