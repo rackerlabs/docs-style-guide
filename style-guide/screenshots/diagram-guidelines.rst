@@ -61,7 +61,7 @@ and stencils are considered **objects**.
 -  Stencils are used to represent certain functions and hardware such as
    the world wide web or a server. These stencils are black and are
    located in `this zip
-   file <https://github.com/rackerlabs/docs-rackspace/blob/master/doc/style-guide/images/zip/RackspaceDiagramIcons.zip>`__.
+   file <https://github.com/rackerlabs/docs-style-guide/blob/master/style-guide/screenshots/images/zip/RackspaceDiagramIcons.zip>`__.
 
 After you download the icons and stencils, you can being making diagrams
 in Draw.io.
