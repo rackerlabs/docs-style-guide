@@ -23,7 +23,7 @@ py==1.4.32
 pyenchant==1.6.8
 Pygments==2.2.0
 pytz==2016.10
-PyYAML==3.11
+pyyaml>=4.2b1
 requests==2.20.0
 restructuredtext-lint==0.17.2
 singledispatch==3.4.0.3
