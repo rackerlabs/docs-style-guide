@@ -9,8 +9,7 @@ January 4, 2019
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Updated requirements.txt to have ``pyyaml>=4.2b1`` based on security alert.
-- Updated links to zip files in "Icons, stencils, and shapes" section.:ref:`symbols` and
-  :ref:`alphabetical-list-of-terms`.
+- Updated links to zip files in "Icons, stencils, and shapes" section.
 
 Icons, stencils, and shapes
 
