@@ -1953,6 +1953,9 @@ parts of speech:
 
        (This statement means that running the control file is all that the
        program does.)
+       
+       For much more about the use of the word, see `Use the Word Only Correctly <https://www.wikihow.com/Use-the-Word-Only-Correctly>`__.
+
    * - on-premises, off-premises
      -
      - Use these terms to distinguish local computing (in which resources are
