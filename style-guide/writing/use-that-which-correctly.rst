@@ -10,6 +10,7 @@ change the meaning of the sentence. You can indicate a restrictive clause with
 the relative pronoun *that* or *who*, and you don't set off a restrictive
 clause with commas.
 
+
 A *nonrestrictive* clause doesn't change the core meaning of the sentence. You
 set off a nonrestrictive clause with commas and can use the relative pronoun
 *which* or *who* in some cases.
