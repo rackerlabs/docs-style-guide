@@ -5,13 +5,19 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+January 21, 2019
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Added the words *such as* to the alphabetical list of words with examples of
+  its use with and without a comma before it, which indicates a nonrestictive
+  versus restrictive clause. Also added information and examples for *such as*
+  to :ref:`restrictive clauses<restrictive-clauses>`.
+
 January 4, 2019
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Updated requirements.txt to have ``pyyaml>=4.2b1`` based on security alert.
 - Updated links to zip files in "Icons, stencils, and shapes" section.
-
-Icons, stencils, and shapes
 
 November 5, 2018
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
