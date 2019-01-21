@@ -1954,7 +1954,7 @@ parts of speech:
 
        (This statement means that running the control file is all that the
        program does.)
-       
+
        For much more about the use of the word, see `Use the Word Only Correctly <https://www.wikihow.com/Use-the-Word-Only-Correctly>`__.
 
    * - on-premises, off-premises
@@ -2552,6 +2552,27 @@ parts of speech:
      - Don't hyphenate words beginning with *sub*, such as *subdomain*,
        *subclass*, and *subaccount*, unless it's necessary to avoid confusion
        or the root word is capitalized.
+   * - such as
+     -
+     - Use *such as* without a comma to introduce a restrictive clause.
+       Use *such as* with a comma to introduce a nonrestrictive clause. If a
+       nonrestrictive clause occurs in midsentence, set the clause off with
+       commas.
+
+       See also :ref:`restrictive clauses<restrictive-clauses>`.
+
+       *Use:*
+
+       Trees such as oaks and elms don’t grow at this altitude. (restrictive)
+
+       This year we’d like to visit a place such as Greece or Rome.
+       (restrictive)
+
+       We like to plan our vacations around three-day weekends, such as Labor
+       Day. (nonrestrictive)
+
+       Citrus fruits, such as oranges and grapefruits, are high in vitamin C.
+       (nonrestrictive)
    * - supported
      - Avoid
      - Software moves in and out of supported status as the software evolves

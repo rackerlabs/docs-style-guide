@@ -21,8 +21,7 @@ Also, you can check out the Rackspace Legal wiki page for
 .. note::
    Show the trademark (™) or registered trademark (®) symbol for the first
    occurrence of the word in a document.
-   
-  
+
 
 Examples of Rackspace trademarks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
