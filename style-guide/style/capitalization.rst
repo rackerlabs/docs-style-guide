@@ -219,7 +219,7 @@ some tips to help you determine whether a noun should be capitalized:
    * - Cloud Control Panel
    * - Zipit Backup Utility
    * - Rate Limiting component
-   * - Cloud Identity service
+   * - Identity service
    * - servers
    * - backups
    * - containers
