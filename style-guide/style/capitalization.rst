@@ -29,6 +29,7 @@ end of this topic.
 - `Don't use all capitals for emphasis
   <#don-t-use-all-capitals-for-emphasis>`__
 
+
 Capitalize proper nouns and adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -219,7 +220,7 @@ some tips to help you determine whether a noun should be capitalized:
    * - Cloud Control Panel
    * - Zipit Backup Utility
    * - Rate Limiting component
-   * - Cloud Identity service
+   * - Identity service
    * - servers
    * - backups
    * - containers
