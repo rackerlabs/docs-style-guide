@@ -49,6 +49,14 @@ customers.
    Cloud services APIs. You can use these basic guidelines, however, when
    writing release notes for any product or service.
 
+:ref:`user-interface-guidelines`
+   Provides a link to the user interface guidelines in the Helix documentation.
+   The Helix documentation include text conversions for user interfaces. Helix
+   is a Rackspace-chartered effort to unify the look, feel, and
+   functionality of Rackspace interfaces. Helix is one system, composed of
+   a design library for designers, which includes guidance on text
+   conventions, and a UI toolkit for developers.
+
 .. toctree::
    :hidden:
    :maxdepth: 3
@@ -63,6 +71,7 @@ customers.
    blog-guidelines.rst
    error-message-guidelines.rst
    release-notes-guidelines.rst
+   user-interface-guidelines.rst
    revision-history.rst
 
 .. figure:: screenshots/images/img/creativecommons.png
