@@ -5,9 +5,25 @@ User interface guidelines
 =========================
 
 Helix is a Rackspace-chartered effort to unify the look, feel, and
-functionality of Rackspace interfaces. Helix is one system, composed of
-a `design library for designers <http://helix.rax.io/getting-started/design.html>`__, which includes guidance on `text conventions for user interfaces <http://helix.rax.io/style/text-conventions.html>`__, and a
-`UI toolkit for developers <https://rackerlabs.github.io/helix-ui/>`__.
+functionality of Rackspace interfaces.
 
-You can access `all Helix code and documentation <http://helix.rax.io/>`__ at
+Helix is one system that includes the following components:
+
+- A `design library <http://helix.rax.io/getting-started/design.html>`__
+  that includes guidance on `text conventions for user interfaces <http://helix.rax.io/style/text-conventions.html>`__
+
+  The text conventions include the following information:
+
+  - `Alert and message guidelines <http://helix.rax.io/style/alert-messages.html>`__
+  - `Capitalization <http://helix.rax.io/style/capitalization.html>`__
+  - `Date and time <http://helix.rax.io/style/date-time.html>`__
+  - `Punctuation <http://helix.rax.io/style/punctuation.html>`__
+  - `Voice and tone <http://helix.rax.io/style/voice-and-tone.html>`__
+  - `Writing guidelines <http://helix.rax.io/style/writing-guidelines.html>`__
+
+- A `UI toolkit for developers <https://rackerlabs.github.io/helix-ui/>`__ that
+  includes all the component templates for a user interface
+
+You can access `all Helix code and documentation <http://helix.rax.io/>`__,
+including the Helix installation guide and FAQ, at
 the top level for the Helix project.
