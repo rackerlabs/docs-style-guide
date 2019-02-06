@@ -50,7 +50,7 @@ customers.
    writing release notes for any product or service.
 
 :ref:`user-interface-guidelines`
-   Provides a link to the user interface guidelines in the Helix documentation.
+   Provides links to the user interface guidelines in the Helix documentation.
    The Helix documentation includes text conventions for user interfaces. Helix
    is a Rackspace-chartered effort to unify the look, feel, and
    functionality of Rackspace interfaces. Helix is one system composed of
