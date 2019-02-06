@@ -5,6 +5,14 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+February 6, 2019
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Added the section
+  :ref:`User interface guidelines<user-interface-guidelines>` that contains
+  links to the Helix documentation, and specifically to the user interface
+  (UI) text conventions in that documentation.
+
 January 21, 2019
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
