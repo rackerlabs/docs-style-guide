@@ -24,6 +24,6 @@ Helix is one system that includes the following components:
 - A `UI toolkit for developers <https://rackerlabs.github.io/helix-ui/>`__ that
   includes all the component templates for a user interface
 
-You can access `all Helix code and documentation <http://helix.rax.io/>`__,
-including the Helix installation guide and FAQ, at
-the top level for the Helix project.
+You can access all Helix documentation and code,
+including the Quick Start Guide, the Installation Guide, and the code
+repository on GitHub, from the `Helix landing page <http://helix.rax.io/>`__.
