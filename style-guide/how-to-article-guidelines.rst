@@ -220,7 +220,7 @@ the  style guide.
        Copy the **index.php** file from your computer to the **content**
        folder.
        The following example shows a basic configuration for the FTP service,
-       in a file in the ```/etc/xinetd.d`` directory.
+       in a file in the ``/etc/xinetd.d`` directory.
    * - Keyboard key names and combinations
      - Bold
      - Press **Enter**.
@@ -242,19 +242,19 @@ Pronouns are useful, but you must ensure that their antecedents (the words
 that they are used in place of) are clear, and that they (the pronouns) don’t
 contribute to vagueness and ambiguity.
 
-- **It** - Ensure that the antecedent of *it* is clear. If multiple singular
+- **It**: Ensure that the antecedent of *it* is clear. If multiple singular
   nouns precede *it*, any of them could be the antecedent. Also, avoid using
   *it is* to begin a sentence. Such a construction hides the real subject of
   the sentence.
 
-- **This** - Avoid beginning a sentence with the pronoun *this*, unless you
+- **This**: Avoid beginning a sentence with the pronoun *this*, unless you
   follow this with a noun to clarify its meaning.
 
-- **There** - Avoid using *there is* and *there are* as the subject of a
+- **There**: Avoid using *there is* and *there are* as the subject of a
   sentence or clause. Using *there* shifts the focus away from the real
   subject and often uses unnecessary words.
 
-- **That** - Avoid using *that* as a demonstrative pronoun (which stands in
+- **That**: Avoid using *that* as a demonstrative pronoun (which stands in
   for or points to a noun). Instead, use it as an adjective and follow it with
   a noun.
 
@@ -320,7 +320,8 @@ see the `Code examples <https://developer.rackspace.com/docs/style-guide/style/c
 
 **Example: Create a VM running a Docker host**
 
-1. Show all the available virtual machines (VMs) that are running Docker.
+1. Show all of the available virtual machines (VMs) that are running Docker
+   by running the following command:
 
    ``$ docker-machine ls``
 
@@ -328,11 +329,11 @@ see the `Code examples <https://developer.rackspace.com/docs/style-guide/style/c
 
    ``NAME   ACTIVE   DRIVER   STATE   URL``
 
-2. Create a VM that is running Docker.
+2. Create a VM that is running Docker by running the following command:
 
    ``$ docker-machine create --driver virtualbox test``
 
-   The ```--driver`` flag indicates what type of driver the machine will run
+   The ``--driver`` flag indicates what type of driver the machine will run
    on. In this case, ``virtualbox`` indicates that the driver is Oracle
    VirtualBox. The final argument in the command gives the VM a name, in this
    case, ``test``.
@@ -347,7 +348,10 @@ see the `Code examples <https://developer.rackspace.com/docs/style-guide/style/c
       Starting VM...
       To see how to connect Docker to this machine, run: docker-machine env test
 
-3. Run ``docker-machine ls`` again to see the VM that you created.
+3. Run ``docker-machine ls`` again to see the VM that you created by running
+   the following command:
+
+   ``$ docker-machine ls``
 
    The output should look as follows:
 
@@ -475,7 +479,7 @@ terms.
 For more guidelines about terminology, see the following sections in the
 style guide:
 
-- `Terminology for a global audience <https://developer.rackspace.com/docs/style-guide/terminology/terms-for-global-audience/#terms-for-global-audiencee>`__
+- `Terminology for a global audience <https://developer.rackspace.com/docs/style-guide/terminology/terms-for-global-audience/#terms-for-global-audience>`__
 - `Terminology <https://developer.rackspace.com/docs/style-guide/terminology/>`__
 
 .. _support-mentions:
