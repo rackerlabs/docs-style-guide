@@ -21,7 +21,7 @@ Follow these guidelines when writing content:
   <write-to-user>`
 - :ref:`Write clear and consistent step text<step-text>`
 - :ref:`Use consistent text formatting<consistent-text-format>`
-- :ref:`Clarify pronouns such as *it*, *this*, *there*, and *that*
+- :ref:`Clarify pronouns such as it, this, there, and that
   <clarify-pronouns>`
 - :ref:`Clarify gerunds and participles<gerunds-and-participles>`
 - :ref:`Write clear and consistent code examples<code-examples-guidelines>`
