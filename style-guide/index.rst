@@ -42,7 +42,6 @@ customers.
    Information Developer and use them as you review How-To articles written by
    outside contributors.
 
-
 :ref:`blog-guidelines`
    Provides instructions specifically for blogs for the Rackspace Developer
    Blog that is published at https://developer.rackspace.com/blog/. Use these
