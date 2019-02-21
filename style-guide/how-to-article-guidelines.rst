@@ -48,7 +48,7 @@ Following are some examples:
 - Install or upgrade PHP 5.3 for CentOS 5.x
 - Ubuntu Hardy: Using mod_python to serve your application
 - PHP configuration limits for Cloud Sites
-- Troubleshooting a Vyatta site-to-site VPN connection
+- Troubleshoot a Vyatta site-to-site VPN connection
 - Differences between IMAP and POP
 
 For more information about titles and headings, see the `Titles and headings <https://developer.rackspace.com/docs/style-guide/style/titles-and-headings/>`__ topic in this style guide.
