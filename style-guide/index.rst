@@ -33,6 +33,13 @@ customers.
    Provides instructions for when to use and how to create screenshots and
    diagrams to enhance your content.
 
+:ref:`how-to-article-guidelines`
+   Provides guidelines specifically for How-To articles that are published at
+   https://support.rackspace.com/. Use these guidelines when writing any
+   How-To articles for this site. You can share these guidelines with outside
+   contributors that you are working with as an Information Developer and use
+   them as you review How-To articles written by outside contributors.
+
 :ref:`blog-guidelines`
    Provides instructions specifically for blogs for the Rackspace Developer
    Blog that is published at https://developer.rackspace.com/blog/. Use these
@@ -68,6 +75,7 @@ customers.
    markup-guidelines.rst
    terminology/index.rst
    screenshots/index.rst
+   how-to-article-guidelines.rst
    blog-guidelines.rst
    error-message-guidelines.rst
    release-notes-guidelines.rst

@@ -52,7 +52,7 @@ of that text must match the capitalization on the interface.
      - I live outside the United States. Can I use my foreign credit card to
        pay for my account?
    * - Shopping cart software: The basics
-     - Troubleshooting a Vyatta site-to-site VPN connection
+     - Troubleshoot a Vyatta site-to-site VPN connection
    * - Back up your files
      - Differences between IMAP and POP
 

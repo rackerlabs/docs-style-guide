@@ -5,6 +5,16 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+February 22, 2019
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Added the section
+  :ref:`How-To article guidelines<how-to-article-guidelines>` that contains
+  guidelines for the How-To articles that are published at
+  https://support.rackspace.com/. The section duplicates the
+  information in the `Style guidelines for contributing content <https://github.com/rackerlabs/rackspace-how-to/blob/master/style-guidelines.md>`_
+  that is in the ``rackspace-how-to`` repository.
+
 February 6, 2019
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
