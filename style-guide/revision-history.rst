@@ -5,6 +5,12 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+March 1, 2019
+
+
+- Added the :ref:`prepositions` section that contains
+  guidelines for using prepositions in sentences.
+
 February 22, 2019
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
