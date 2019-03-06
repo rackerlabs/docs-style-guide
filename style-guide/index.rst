@@ -33,6 +33,11 @@ customers.
    Provides instructions for when to use and how to create screenshots and
    diagrams to enhance your content.
 
+:ref:`control-panels-and-portals`
+   Provides guidelines for the capitalization and the URLs used for
+   standard control panels and portals that are referenced in our technical
+   documentation.
+
 :ref:`how-to-article-guidelines`
    Provides guidelines specifically for How-To articles that are published at
    https://support.rackspace.com/. Use these guidelines when writing any
@@ -75,6 +80,7 @@ customers.
    markup-guidelines.rst
    terminology/index.rst
    screenshots/index.rst
+   control-panels-and-portals.rst
    how-to-article-guidelines.rst
    blog-guidelines.rst
    error-message-guidelines.rst

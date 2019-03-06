@@ -5,8 +5,13 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
-March 1, 2019
+March 6, 2019
 
+- Added the :ref:`control-panels-and-portals` section that contains
+  guidelines for the capitalization and URLs used in our documentation for
+  standard control panels and portals.
+
+March 1, 2019
 
 - Added the :ref:`prepositions` section that contains
   guidelines for using prepositions in sentences.
