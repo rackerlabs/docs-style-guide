@@ -5,8 +5,8 @@ Control panel and portal standards
 ==================================
 
 This section includes guidelines for the capitalization and the URLs used for
-standard control panels and portals that are referenced in our technical
-documentation.
+standard control panels and portals that Rackspace technical
+documentation references.
 
 .. note::
 
