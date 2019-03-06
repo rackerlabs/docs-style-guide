@@ -181,6 +181,7 @@ Lookabaugh
 loquacities
 MaaS
 macOS
+Mailgun
 Makefile
 masq
 matrixes
@@ -364,6 +365,7 @@ vxlan
 Vyatta
 webhook
 webinar
+webmail
 Webmail
 weren
 whitelist
