@@ -40,3 +40,5 @@ Use the capitalization and the URLs in the following table:
      - Provides the high-level Rackspace portal where AWS, Dedicated Hosting,
        Google Cloud Platform, Mailgun, Managed Security, Rackspace Cloud, and
        Rackspace Intelligence products are accessed.
+       
+  For additional information about logging in to Rackspace accounts, see https://www.rackspace.com/login.   
