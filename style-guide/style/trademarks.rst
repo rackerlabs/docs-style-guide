@@ -30,8 +30,18 @@ Following are examples of Rackspace trademarks:
 
 -  Rackspace® (when used in connection with service names), such as Rackspace®
    Managed Cloud or Rackspace® Managed Services for Google Cloud Platform™
--  **Fanatical Support** ®, such as **Fanatical Support** ® for AWS
+-  Fanatical Experience™
+-  **Fanatical Support**/®
 -  ObjectRocket®
+
+.. note::
+
+    Mirroring its redoubled efforts to target large-enterprise customers more
+    effectively, in March 2019 Rackspace rebranded and replaced its Fanatical
+    Support tagline with a more inclusive Fanatical Experience tagline. The
+    idea that every Racker must take partial ownership and responsibility
+    toward each customer outcome continues to form the core ethos of its
+    workplace culture.
 
 For a complete list, see the `Rackspace Trademark
 List <https://www.rackspace.com/information/legal/tmlist>`__.
@@ -387,12 +397,33 @@ trademarks in documentation.
        The Rackspace Cloud Storage App for Microsoft SharePoint enables you to
        work with files inside of Rackspace Cloud Files alongside SharePoint
        content.
-   * - Always use *Fanatical Support* as a trademark. Don't use *Fanatical*
-       outside of the trademark. On the first use of this trademark in a
-       document, in body content (not in headings), use bold font and use a
-       registered trademark symbol. In RST files, the syntax is
+   * - Always use Fanatical Experience as a trademark. Don't use Fanatical or
+       fanatical outside of the trademark. On the first use of this trademark
+       in a document, in body content (not in headings), use Fanatical
+       Experience™. In RST files,
+       the syntax is Fanatical Experience™. In Markdown files, the syntax is
+       Fanatical Experience&trade;.
+
+       In March 2019, Rackspace rebranded and replaced its Fanatical Support
+       tagline with the more inclusive Fanatical Experience tagline. Limit
+       use of Fanatical Support. Use Fanatical Experience instead.
+
+       For more information, see the `Rackspace Trademark Guidelines from
+       Legal
+       <https://one.rackspace.com/display/legal/Trademarks>`__.
+     - Rackspace provides you with a Fanatical Experience™.
+     - Rackspace is Fanatical.
+   * - Always use Fanatical Support as a trademark. Don't use Fanatical or
+       fanatical outside of the trademark. On the first use of this trademark
+       in a document, in body content (not in headings), use bold font and use
+       a registered trademark symbol. In RST files, the syntax is
        ``**Fanatical Support**\®``. In Markdown files, the syntax is
        ``**Fanatical Support**&reg;``.
+
+
+       In March 2019, Rackspace rebranded and replaced its Fanatical Support
+       tagline with the more inclusive Fanatical Experience tagline. Limit
+       use of Fanatical Support. Use Fanatical Experience instead.
 
        For more information, see the `Rackspace Trademark Guidelines from
        Legal

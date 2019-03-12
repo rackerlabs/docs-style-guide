@@ -5,6 +5,22 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+March 12, 2019
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Because of the Rackspace rebranding in March 2019, added the new Rackspace
+  tagline, Fanatical Experience™, to all relevant sections, but especially to
+  :ref:`trademarks`.
+
+  .. note::
+
+     Mirroring its redoubled efforts to target large-enterprise customers
+     more effectively, Rackspace replaced its Fanatical Support tagline with
+     the more inclusive tagline, Fanatical Experience. The idea that every
+     Racker must take partial ownership and responsibility toward each
+     customer outcome continues to form the core ethos of its workplace
+     culture.
+
 March 6, 2019
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

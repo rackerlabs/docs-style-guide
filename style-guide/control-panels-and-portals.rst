@@ -42,4 +42,4 @@ Use the capitalization and the URLs in the following table:
        Rackspace Intelligence products are accessed.
 
 
-For additional information about logging in to Rackspace accounts, see https://www.rackspace.com/login.     
+For additional information about logging in to Rackspace accounts, see https://www.rackspace.com/login.
