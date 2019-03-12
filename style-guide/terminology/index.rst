@@ -26,7 +26,6 @@ content.
 :ref:`trademarks`
    Shows the correct spelling, capitalization, and trademarks for Rackspace
    and third-party trademarks.
-   
 
 .. toctree::
    :hidden:
