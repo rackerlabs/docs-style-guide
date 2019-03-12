@@ -256,6 +256,9 @@ Rackspace
 rackspace
 rc
 rcs
+rebrand
+rebranded
+rebranding
 Redis
 Regionalized
 Rendon
@@ -317,6 +320,7 @@ substeps
 sudo
 swiftfs
 symlink
+tagline
 tcp
 tcpflags
 tempsuffix
