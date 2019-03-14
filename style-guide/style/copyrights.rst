@@ -4,6 +4,4 @@
 Copyrights
 ==========
 
-For both API and How-To content, copyright statements are automatically
-inserted by the system. Use the generated statement unless RackLaw gives
-you other instructions.
+For both API and How-To content, use copyright instructions from RackLaw.
