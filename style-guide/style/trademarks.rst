@@ -267,7 +267,7 @@ used in our content.
      - From Cisco.
    * - Windows®
      -
-   * - Windows® Server®
+   * - Windows Server®
      -
 
 Links to company trademark pages
