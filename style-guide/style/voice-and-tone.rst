@@ -25,13 +25,16 @@ No matter where our words land, they should sound like us.
    * - Voice attributes
      - Tone attributes
    * - Basic
+
        * Human
        * Conversational
        * Friendly
        * Confident
        * Knowledgeable
        * Trustworthy
+
      - Basic
+
        * Indispensable
        * Helpful
        * Approachable
@@ -39,17 +42,22 @@ No matter where our words land, they should sound like us.
        * Professional
        * Honest
        * Accurate
+
    * - Amplified
+
        * Bold
        * Voice of reality
        * Voice of experience
        * Committed
        * Exuberant
+
      - Amplified
+
        * Empathetic without sugarcoating it
        * Empowering and proactive
        * Playful, but professional
        * Steadfast, but open and approachable
+       
 
 Best practices
 --------------
