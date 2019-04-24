@@ -51,9 +51,8 @@ No matter where our words land, they should sound like us.
        * Playful, but professional
        * Steadfast, but open and approachable
 
-
 Best practices
--------------------------
+--------------
 
 Consider the following best practices for voice and tone:
 
