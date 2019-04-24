@@ -44,3 +44,4 @@ instructions for applying style conventions.
    titles-and-headings.rst
    trademarks.rst
    urls.rst
+   voice-and-tone.rst
