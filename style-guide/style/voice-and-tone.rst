@@ -18,6 +18,11 @@ include the following things:
 
 No matter where our words land, they should sound like us.
 
+Voice and tone attributes
+-------------------------
+
+The following table shows attributes for voice and tone:
+
 .. list-table::
    :widths: 50 50
    :header-rows: 1
