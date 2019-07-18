@@ -135,6 +135,7 @@ hyperlinks
 hypervisor
 IaaS
 idempotency
+impactful
 Inavero
 indices
 ini

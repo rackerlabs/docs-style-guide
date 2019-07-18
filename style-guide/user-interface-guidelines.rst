@@ -17,6 +17,7 @@ Helix is one system that includes the following components:
   - `Alert and message guidelines <http://helix.rax.io/style/alert-messages.html>`__
   - `Capitalization <http://helix.rax.io/style/capitalization.html>`__
   - `Date and time <http://helix.rax.io/style/date-time.html>`__
+  - `Hyperlinks <http://helix.rax.io/style/hyperlinks.html>`__
   - `Punctuation <http://helix.rax.io/style/punctuation.html>`__
   - `Voice and tone <http://helix.rax.io/style/voice-and-tone.html>`__
   - `Writing guidelines <http://helix.rax.io/style/writing-guidelines.html>`__
