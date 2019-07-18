@@ -5,6 +5,12 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+July 18, 2019
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- In :ref:`user-interface-guidelines`, added link to Hyperlinks conventions
+  that is included in the Helix text conventions documentation.
+
 March 12, 2019
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
