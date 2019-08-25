@@ -54,7 +54,7 @@ Use the following rules for hyphens and dashes:
 - Use em dashes (—), the longest dashes, to set off a long qualifier in the
   middle of a sentence if the use of commas would hinder readability.
 
-  - Don’t add a space before of after the en dash.
+  - Don’t add a space before of after the em dash.
   - Don’t capitalize the word following an em dash, unless the word is proper.
   - Don’t use an em dash to separate a long sentence into two parts. Instead,
     create two sentences.
