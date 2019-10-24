@@ -38,7 +38,7 @@ Block Storage (Cinder). On subsequent references, use the service name
 instead of the project name, unless you need to use project names to
 differentiate between two versions of one service. See the `OpenStack
 documentation
-conventions <http://docs.openstack.org/contributor-guide/writing-style/openstack-components.html>`__
+conventions <https://docs.openstack.org/contributor-guide/writing-style/openstack-components.html>`__
 for service and project names.
 
 .. list-table::
