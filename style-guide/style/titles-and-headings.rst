@@ -48,7 +48,8 @@ of that text must match the capitalization on the interface.
      - What are the PHP configuration limits for Cloud Sites?
    * - Install or upgrade PHP 5.3 for CentOS 5.x
      - How do I install my own PEAR module?
-   * - Ubuntu Hardy: Using mod\_python to serve your application
+   * - Ubuntu 8.04 LTS (Hardy Heron): Using mod\_python to serve your
+       application
      - I live outside the United States. Can I use my foreign credit card to
        pay for my account?
    * - Shopping cart software: The basics
