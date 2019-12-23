@@ -31,6 +31,7 @@ Follow these guidelines when writing content:
 For comprehensive writing and style guidelines, see other sections in this
 style guide.
 
+
 .. _sentence-style-capitalization-guidelines:
 
 Use sentence-style capitalization for titles and headings
