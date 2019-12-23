@@ -1156,13 +1156,15 @@ parts of speech:
        *Use:*
 
        Rackspace Private Cloud can be deployed with a Chef-based approach that
-       enables customers to create an OpenStack cluster on Ubuntu, CentOS, or
+       enables customers to create an OpenStack cluster on the Ubuntu
+       operating system, CentOS, or
        Red Hat Enterprise Linux.
 
        *Don't use:*
 
        Rackspace Private Cloud can be deployed with a Chef-based approach that
-       allows customers to create an OpenStack cluster on Ubuntu, CentOS, or
+       allows customers to create an OpenStack cluster on the Ubuntu operating
+       system, CentOS, or
        Red Hat Enterprise Linux.
    * - end user (n), end-user (adj)
      - Restricted

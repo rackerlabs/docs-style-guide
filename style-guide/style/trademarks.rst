@@ -241,8 +241,8 @@ used in our content.
    * - UNIX®
      - UNIX is must always be spelled and capitalized as shown. Do not use
        Unix.
-   * - Ubuntu®
-     - Ubuntu always be spelled and capitalized as shown.
+   * - the Ubuntu® operating system
+     - The Ubuntu operating system is always spelled and capitalized as shown.
    * - Varnish®
      -
    * - VMware®
@@ -371,10 +371,11 @@ trademarks in documentation.
    * - Don't use a trademark as a possessive or as a plural. If necessary,
        form a possessive or plural from the noun that follows the trademark
        (which is used as an adjective).
-     - The packaged version of NGINX® from Ubuntu® uses a sites-available and
-       sites-enabled layout in the same manner as an Apache® installation based
-       on Debian®.
-     - Ubuntu®'s packaged version of NGINX uses a sites-available and
+     - The packaged version of NGINX® from the Ubuntu® operating system uses a
+       sites-available and sites-enabled layout in the same manner as an
+       Apache® installation based on Debian®.
+     - The Ubuntu® operating system packaged version of NGINX uses a sites-
+       available and
        sites-enabled layout in the same manner as a Debian®-based Apache®
        installation.
    * - Always distinguish a third-party trademark from a Rackspace product name
