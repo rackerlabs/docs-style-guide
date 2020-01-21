@@ -29,7 +29,6 @@ end of this topic.
 - `Don't use all capitals for emphasis
   <#don-t-use-all-capitals-for-emphasis>`__
 
-
 Capitalize proper nouns and adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
