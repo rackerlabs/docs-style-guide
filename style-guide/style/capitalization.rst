@@ -162,7 +162,6 @@ in the following table:
 
    * - Examples of initial capitals in team names
    * - The Support team handles making the change for you.
-   * - The Support team handles making the change for you.
    * - Contact your Account Management team can tell you what the charge will
        be.
    * - The Information Development team is amazing!
