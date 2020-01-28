@@ -8,8 +8,8 @@ guide.
 January 28, 2020
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- In :ref:`citations`, added information about how to format multiple
-  paragraph quotations and also added a link to this information in
+- In :ref:`citations`, added information about how to format
+  multiple-paragraph quotations and also added a link to this information in
   :ref:`punctuation` under "Quotation marks."
 
 July 18, 2019
