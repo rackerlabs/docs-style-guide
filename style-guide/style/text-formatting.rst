@@ -407,7 +407,7 @@ elements. The following style differences are highlighted:
    * - Quotations
 
        (content quoted from another source)
-     - Quotation marks (see :ref:`citations`)
+     - Quotation marks (see :ref:`punctuation` and :ref:`citations`)
      - "Scalability is key for our business," explained Nathan Goff, Inavero
        Operations Director and Partner. "There's nothing worse than making our
        clients look bad to their customers."
