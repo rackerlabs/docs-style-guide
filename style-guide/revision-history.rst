@@ -5,6 +5,20 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+January 28, 2020
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Multiple-paragraph quotations**: Added the following information:
+
+  - Added information about how to format multiple-paragraph quotations in
+    :ref:`citations`.
+
+  - Added a link to the Citations section in :ref:`punctuation` under
+    "Quotation marks."
+
+  - Updated the "Quotations" row in the table in :ref:`text-formatting` to
+    have links to the Citations and Punctuation sections.
+
 July 18, 2019
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

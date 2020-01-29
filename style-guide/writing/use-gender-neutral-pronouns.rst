@@ -17,8 +17,9 @@ approaches. Instead, use *they* or its derivative forms (*their*, *theirs*,
 - Every account manager should thank their customer.
 - Who left their laptop opened and unsecured?
 
-In these sentences, we’re talking about one person, but we don’t know whether
-that person is male or female. In the past, people might have written "Tell
+In these sentences, we’re talking about one person, but we don’t know
+whether that person is male or female. In the past, people might have written
+"Tell
 the next caller he needs to forward the status" or "Tell the next caller he or
 she need to forward the status. But recently, acceptance of the pronoun
 *they* or *their* in sentences similar to these is moving forward. (Singular

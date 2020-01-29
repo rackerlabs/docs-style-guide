@@ -369,8 +369,9 @@ Use single and double quotation marks according to the following guidelines:
 - Use quotation marks in user entries or syntax only if the software requires
   the quotation marks.
 
-- Use quotation marks in message text only if the product shows quotation marks
-  in the generated message. Use code font (monospace) to format messages.
+- Use quotation marks in message text only if the product shows quotation
+  marks in the generated message. Use code font (monospace) to format
+  messages.
 
 - If you use a term in a unique or qualified sense, use double quotation marks
   in text only at its first occurrence, and omit the quotation marks in
@@ -388,6 +389,9 @@ Use single and double quotation marks according to the following guidelines:
 
 - Use quotation marks to enclose text that's used verbatim from another source,
   or to enclose quotations from people.
+
+- For information about how to use quotation marks with citations, see
+  :ref:`citations`.
 
 Semicolons
 ~~~~~~~~~~

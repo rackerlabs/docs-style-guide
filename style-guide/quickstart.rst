@@ -6,9 +6,14 @@ Quickstart
 
 Thank you for contributing to Rackspace content!
 
-Don't worry if your job title doesn't include the word *writer*, *information*,
-or *content*—your most important contribution is your knowledge and expertise.
-Your willingness to share what you know with users will help them to accomplish
+Don't worry if your job title doesn't include the following words:
+
+-  *writer*
+-  *information*
+-  *content*
+
+Your most important contribution is your knowledge and expertise. Your
+willingness to share what you know with users helps them to accomplish
 their goals and be successful.
 
 The Information Development team is ready to help turn your contributions
