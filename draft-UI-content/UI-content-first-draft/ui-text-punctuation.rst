@@ -32,9 +32,9 @@ Use serial commas (also called Oxford commas).
 
    * - Use
      - Don't use
-   * - The success of the internet as a public resource depends upon
+   * - The success of the Internet as a public resource depends upon
        interoperability, innovation, and decentralized participation worldwide.
-     - The success of the internet as a public resource depends upon
+     - The success of the Internet as a public resource depends upon
        interoperability, innovation and decentralized participation worldwide.
 
 Hyphens and dashes
