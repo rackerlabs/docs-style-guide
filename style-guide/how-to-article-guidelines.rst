@@ -454,7 +454,7 @@ terms.
    * - information on
      - information about
    * - internet
-     - internet
+     - Internet
    * - log into
      - log in to
    * - may
