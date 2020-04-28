@@ -8,7 +8,8 @@ guide.
 April 28, 2020
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Ellipses**: Added additional information and examples in :ref:`ellipses`.
+- **Ellipses**: For more clarity, added additional information and examples
+  in :ref:`ellipses`.
 
 January 28, 2020
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
