@@ -5,6 +5,11 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+April 28, 2020
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Ellipses**: Added additional information and examples in :ref:`ellipses`.
+
 January 28, 2020
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
