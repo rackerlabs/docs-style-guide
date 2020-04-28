@@ -727,7 +727,7 @@ parts of speech:
      - Use a slash, not a hyphen.
    * - cloud
      -
-     - When using *cloud* as a general noun or adjective or generic reference,
+     - When using *cloud* as a general noun or adjective or as a generic reference,
        use lowercase.
    * - cloud hosting, Cloud Hosting
      -
