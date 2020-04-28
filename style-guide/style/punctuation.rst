@@ -270,7 +270,6 @@ three.
 **Example:**
 
 **Recommended:** My high school English teacher made me learn that Shakespeare
-
 quote: "All the world's a stage, ... And one man in his time plays many parts."
 
 Punctuation and spacing
