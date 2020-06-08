@@ -5,6 +5,17 @@ Style guide revision history
 This file summarizes the changes that have been made to the style
 guide.
 
+June 8, 2020
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Trademarks**: Updated the :ref:`trademarks` section with the following
+  changes requested by the Rackspace Legal Department:
+
+  - Removed bold font from Fanatical Support®.
+  - Removed the word *a* from in front of Fanatical Experience™.
+  - Added Solving Together™.
+  - Added Rackspace Technology™.
+
 April 28, 2020
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -152,8 +163,8 @@ May 8, 2018
 
 -  Removed the guideline to use the ``bolditalic`` directive for the
    term *Fanatical Support* in RST files (:ref:`trademarks`). For the first
-   mention that is not in a heading, use only bold font and the registered
-   trademark symbol (**Fanatical Support**\®) to be consistent with
+   mention that is not in a heading, the registered
+   trademark symbol (Fanatical Support®) to be consistent with
    marketing documentation.
 
 April 16, 2018

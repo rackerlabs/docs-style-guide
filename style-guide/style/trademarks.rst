@@ -31,8 +31,10 @@ Following are examples of Rackspace trademarks:
 -  Rackspace® (when used in connection with service names), such as Rackspace®
    Managed Cloud or Rackspace® Managed Services for Google Cloud Platform™
 -  Fanatical Experience™
--  **Fanatical Support**/®
+-  Fanatical Support®
 -  ObjectRocket®
+-  Rackspace Technology™
+-  Solving Together™
 
 .. note::
 
@@ -56,7 +58,7 @@ used in our content.
 
    To see if there is a trademark or registered trademark for a new company
    or software name that you use in your content, it's always a good idea to do
-   research on the Internet and make sure that you are following any specified
+   research on the Internet and ensure that you are following any specified
    trademark guidelines. You can also use the `Unites States Patent and  Trademark Office site <https://www.uspto.gov/trademark>`_ and search by
    using their **Find It** Fast link.
 
@@ -182,8 +184,6 @@ used in our content.
      - This name is variously shown as nginx, Nginx, and NGINX on the
        company's website. However, NGINX is a registered trademark of Nginx,
        Inc.
-   * - NoSQL®
-     -
    * - OpenStack®
      -
    * - openSUSE™
@@ -412,14 +412,14 @@ trademarks in documentation.
        For more information, see the `Rackspace Trademark Guidelines from
        Legal
        <https://one.rackspace.com/display/legal/Trademarks>`__.
-     - Rackspace provides you with a Fanatical Experience™.
+     - Rackspace provides you with Fanatical Experience™.
      - Rackspace is Fanatical.
    * - Always use Fanatical Support as a trademark. Don't use Fanatical or
        fanatical outside of the trademark. On the first use of this trademark
-       in a document, in body content (not in headings), use bold font and use
+       in a document, in body content (not in headings), use
        a registered trademark symbol. In RST files, the syntax is
-       ``**Fanatical Support**\®``. In Markdown files, the syntax is
-       ``**Fanatical Support**&reg;``.
+       ``Fanatical Support®``. In Markdown files, the syntax is
+       ``Fanatical Support&reg;``.
 
 
        In March 2019, Rackspace rebranded and replaced its Fanatical Support
@@ -429,5 +429,5 @@ trademarks in documentation.
        For more information, see the `Rackspace Trademark Guidelines from
        Legal
        <https://one.rackspace.com/display/legal/Trademarks>`__.
-     - We provide **Fanatical Support**\®.
+     - We provide Fanatical Support®.
      - Our support is Fanatical.
