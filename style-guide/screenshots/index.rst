@@ -4,7 +4,7 @@
 Screenshot and diagram guidelines
 =================================
 
-At Rackspace, we strive to provide a Fanatical Experience™ for our customers
+At Rackspace, we strive to provide Fanatical Experience™ for our customers
 through
 exceptional documentation. Images are an essential part of helpful,
 clear, and concise content. Follow the standards in this section when
