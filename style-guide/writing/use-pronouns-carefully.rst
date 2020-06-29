@@ -48,6 +48,12 @@ Avoid beginning a sentence with the pronoun *this*, unless you follow
      - Avoid
    * - This option causes an error when you run the program.
      - This causes an error when you run the program.
+   * - The Cloud Sites FTP service supports resumable uploading. If a
+       connection fails during an upload, you don't need to restart the upload
+       from the beginning.
+     - The Cloud Sites FTP service supports resumable uploading. This means
+       that if there is a connection failure during an upload, it doesn't have
+       to be started from the beginning.
 
 There
 ~~~~~
@@ -72,12 +78,6 @@ often uses unnecessary words.
        message log.
      - When there are errors in the script, the product writes information to
        the message log.
-   * - The Cloud Sites FTP service supports resumable uploading. If a
-       connection fails during an upload, you don't need to restart the upload
-       from the beginning.
-     - The Cloud Sites FTP service supports resumable uploading. This means
-       that if there is a connection failure during an upload, it doesn't have
-       to be started from the beginning.
 
 That
 ~~~~
