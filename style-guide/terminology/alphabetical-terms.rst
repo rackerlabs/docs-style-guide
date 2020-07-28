@@ -453,6 +453,9 @@ parts of speech:
    * - bad
      - Avoid
      - Use *serious* instead, or provide an explanation.
+   * - bare metal
+     - 
+     - Use *bare metal*, instead of Bare Metal or bare-metal.
    * - be sure
      - Avoid
      - Depending on context, use *ensure* or *verify* instead.
@@ -2311,10 +2314,12 @@ parts of speech:
      - Avoid
      - Avoid this term. Express relationships directly rather than making the
        elements of one list respective to elements of another list.
+   * - ReST
+     -
+     - Use ReST as the abbreviation for ReStructured Text.
    * - REST
      -
-     - Use REST, not ReST, as the abbreviation for Representational State
-       Transfer.
+     - Use REST as the abbreviation for Representational State Transfer.
    * - restore (v, adj)
      -
      - Avoid using *restore* as a noun. You can use it as an adjective, as in
