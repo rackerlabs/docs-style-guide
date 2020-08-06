@@ -30,7 +30,7 @@ Following are examples of Rackspace trademarks:
 
 -  Rackspace® (when used in connection with service names), such as Rackspace®
    Managed Cloud or Rackspace® Managed Services for Google Cloud Platform™
--  Fanatical Experience™
+-  Fanatical Experience™ (**Note**: Do not put "a" or "the" before *Fanatical Experience™*.)
 -  Fanatical Support®
 -  ObjectRocket®
 -  Rackspace Technology™
