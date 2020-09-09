@@ -1797,6 +1797,9 @@ parts of speech:
      -
      - Use lowercase when referring generally to the industry and providers.
        Capitalize when referring to it as a Rackspace offering.
+   * - master
+     - Avoid
+     - For database replication, use *primary/replica* instead of *master/slave*.
    * - matrixes
      -
      - As the plural of *matrix*, use *matrixes* rather than *matrices*.
@@ -2514,6 +2517,9 @@ parts of speech:
      - Don't use
      - Use *slash* to refer to the / character, and use *backslash* to
        refer to \\ the character.
+   * - slave
+     - Avoid
+     - For database replication, use *primary/replica* instead of *master/slave*.
    * - software as a service (SaaS)
      -
      - Note the capitalization of the spelled-out term and the abbreviation. On
