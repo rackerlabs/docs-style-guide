@@ -1,0 +1,22 @@
+
+[build.environment]
+  NPM_VERSION = "6.14.8"
+  NODE_VERSION = "12.16.3"
+
+[build]
+  publish = "style-guide/_build/html"
+  command = "cd style-guide && make clean html && cd .."
+
+[context.production]
+  publish = "style-guide/_build/html"
+  command = "cd style-guide && make clean html && cd .."
+
+[context.deploy-preview]
+  publish = "style-guide/_build/html"
+  command = "cd style-guide && make clean html && cd .."
+
+[[redirects]]
+  from = "/*"
+  to = "/docs/style-guide/:splat"
+  status = 301
+  force = false

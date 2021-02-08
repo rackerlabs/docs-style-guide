@@ -55,11 +55,11 @@ html:
 #	@echo "Converting MD tables to RST"
 #	python3 ../tools/prebuild.py
 #	@echo
-	$(SPHINXBUILD) -E -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	$(SPHINXBUILD) -E -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html/docs/style-guide
 #	@echo "Cleaning up from MD table conversion"
 #	python3 ../tools/postbuild.py
 #	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html/docs/style-guide."
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
