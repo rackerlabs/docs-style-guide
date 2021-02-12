@@ -1,11 +1,7 @@
-# Misc artifacts
 .DS_Store
-.cache/
-.coverage
 *.xpr
 .idea
 .eggs
-target
 
 # Build results
 target/
@@ -18,7 +14,11 @@ build/
 _build/
 /build-*.log.gz
 *.pdf
+glossary.rst
 *.mo
+
+# Python compiled files
+*.pyc
 
 # Ignore Vagrant Related Files
 acceptance_config.yml
@@ -28,8 +28,27 @@ boxes/*
 # Testenvironment
 .tox/
 
+# Virtualenv
+.venv/
+ENV/
+
 # Editors
 *~
 .*.swp
 .bak
 /.project
+.python-version
+node_modules
+.vscode
+Gemfile.lock
+.env
+Pipfile.lock
+docs/_build/
+docs/build/
+doc/_build/
+doc/build/
+api-docs/_build/
+api-docs/build/
+
+_build/
+style-guide/_build/
