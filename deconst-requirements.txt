@@ -20,7 +20,7 @@ mkdocs-bootswatch==0.4.0
 pbr==1.10.0
 pluggy==0.4.0
 py==1.4.32
-Pygments==2.2.0
+Pygments==2.7.4
 pytz==2016.10
 pyyaml>=4.2b1
 requests==2.20.0
