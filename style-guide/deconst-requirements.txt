@@ -19,7 +19,7 @@ mkdocs-bootstrap==0.1.1
 mkdocs-bootswatch==0.4.0
 pbr==1.10.0
 pluggy==0.4.0
-py==1.4.32
+py==1.10.0
 pyenchant==1.6.8
 Pygments==2.7.4
 pytz==2016.10
