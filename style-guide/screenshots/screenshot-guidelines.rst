@@ -51,6 +51,8 @@ However, *do not* create or use screenshots of the following items:
 
 -  Tables created in another authoring tool
 
+-  The captured screen is volatile and likely to chage frequently.
+
 Screenshot alternatives
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -82,7 +84,7 @@ Screenshots in procedures
 
 If you include a screenshot in a procedure, place it directly under the
 step that it illustrates. Do not rely on the screenshot to show
-information or values that the user must enter; always provide that
+information or values that the user must enter. Instead, always provide that
 information in the text of the steps. However, ensure that the
 screenshot accurately reflects the directions and values in the step
 text.
@@ -103,3 +105,14 @@ Use the following standards when creating your screenshots:
 -  **Titles:** Titles are not required, especially for screenshots
    in procedures and tutorials. If you want to add a title to a
    screenshot for clarity, follow the guidelines in :ref:`titles-and-headings`.
+-  **Personal or private details**: Make sure to mask, modify, or remove
+   any personal identifiers, passwords, logins, or other information that 
+   could compromise security.
+-  **\<alt\> property**: Use the \<alt\> property to briefly describe the
+   screenshot for visually-impaired readers. The following list provides
+   some guidance:
+
+      -  For decorative images: leave alt-text blank.
+      -  For images with text: use the text in the image.
+      -  For charts and graphs: summarize the trend or take-away point.
+      -  For other images: What does the image represent or add to the document?
