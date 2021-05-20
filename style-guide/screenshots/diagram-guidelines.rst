@@ -79,14 +79,14 @@ should look and the message it conveys to provide the designer.
 To make the request:
 
 1. Create a draft of the image by using `draw.io <https://www.draw.io/>`__ or
-   even hand-drawing it and taking a photo.
+   another tool.  You can even hand-draw it and take a photo.
 2. Go to the `Work Request form <https://app.welcomesoftware.com/cloud/work-request/request-form>`__.
 3. For request type, select **General Work Request**.
 4. Fill in the information in the form's text boxes.
 
    -  Choose **Not Applicable** if there is no better choice.
    -  For **Content Format**, select the most appropriate choice, such as
-     **Image only** or **Infographic**.
+      **Image only** or **Infographic**.
    -  For **Region**, choose **Global**.
    -  For **MDF**, choose **No**.
    -  For **Does this need to go to Seismic**, click **No**.

@@ -51,7 +51,7 @@ However, *do not* create or use screenshots of the following items:
 
 -  Tables created in another authoring tool
 
--  The captured screen is volatile and likely to chage frequently.
+-  A screen that is volatile and likely to chage frequently
 
 Screenshot alternatives
 ~~~~~~~~~~~~~~~~~~~~~~~
