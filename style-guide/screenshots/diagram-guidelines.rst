@@ -11,10 +11,13 @@ depends on the context of each document and the discretion of each writer.
 
 -  `When to use diagrams <#when-to-use-diagrams>`__
 -  `Before you create a diagram <#before-you-create-a-diagram>`__
+-  `Request a diagram from Creative Services <#request-a-digram-from-creative-services>`_
 -  `Diagram checklist <#diagram-checklist>`__
 
 When to use diagrams
 ~~~~~~~~~~~~~~~~~~~~
+
+Before using a diagram, consider tables or lists as possible alternatives.
 
 Include diagrams in the following situations:
 
@@ -28,7 +31,7 @@ Include diagrams in the following situations:
 
 Do *not* include diagrams in the following situations:
 
--  When a workflow is simplistic, such as using the control panel to
+-  When a workflow is simplistic, such as using the Control Panel to
    create a cloud server
 
 -  When there is no interaction with a Rackspace product
@@ -65,6 +68,35 @@ and stencils are considered **objects**.
 
 After you download the icons and stencils, you can being making diagrams
 in Draw.io.
+
+Request a diagram from Creative Services
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You might prefer to request a diagram from the Creative Services team rather
+than create it yourself, in some cases. You need to have an idea about how it
+should look and the message it conveys to provide the designer.
+
+To make the request:
+
+1. Create a draft of the image by using `draw.io <https://www.draw.io/>`__ or
+   another tool.  You can even hand-draw it and take a photo.
+2. Go to the `Work Request form <https://app.welcomesoftware.com/cloud/work-request/request-form>`__.
+3. For request type, select **General Work Request**.
+4. Fill in the information in the form's text boxes.
+
+   -  Choose **Not Applicable** if there is no better choice.
+   -  For **Content Format**, select the most appropriate choice, such as
+      **Image only** or **Infographic**.
+   -  For **Region**, choose **Global**.
+   -  For **MDF**, choose **No**.
+   -  For **Does this need to go to Seismic**, click **No**.
+   -  For **Does this need to go to the Solution Hub**, click **No**.
+
+6. Attach your draft.
+
+You and the designer then collaborate to produce the diagram you need.  The
+process might take days or even weeks, depending on their workload, so provide
+as much lead time as you can.
 
 Diagram checklist
 ~~~~~~~~~~~~~~~~~
@@ -122,6 +154,25 @@ Objects
 -  **Labels**: Label all product icons, stencils, and shapes, according to
    their function within the diagram. Use sentence-style capitalization (that
    is, capitalize *only* terms that are proper or are normally capitalized).
+
+Background
+----------
+
+If possible, use a transparent background and don’t add borders or shadow
+effects to the diagram to avoid distracting interactions with the reader's
+screen background.
+
+
+\<alt\> property
+----------------
+
+Use the \<alt\> property to briefly describe the screenshot for
+visually-impaired readers. The following list provides some guidance:
+
+      -  For decorative images: leave alt-text blank.
+      -  For images with text: use the text in the image.
+      -  For charts and graphs: summarize the trend or take-away point.
+      -  For other images: What does the image represent or add to the document?
 
 Lines and arrows
 ----------------
