@@ -72,31 +72,8 @@ in Draw.io.
 Request a diagram from Creative Services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You might prefer to request a diagram from the Creative Services team rather
-than create it yourself, in some cases. You need to have an idea about how it
-should look and the message it conveys to provide the designer.
-
-To make the request:
-
-1. Create a draft of the image by using `draw.io <https://www.draw.io/>`__ or
-   another tool.  You can even hand-draw it and take a photo.
-2. Go to the `Work Request form <https://app.welcomesoftware.com/cloud/work-request/request-form>`__.
-3. For request type, select **General Work Request**.
-4. Fill in the information in the form's text boxes.
-
-   -  Choose **Not Applicable** if there is no better choice.
-   -  For **Content Format**, select the most appropriate choice, such as
-      **Image only** or **Infographic**.
-   -  For **Region**, choose **Global**.
-   -  For **MDF**, choose **No**.
-   -  For **Does this need to go to Seismic**, click **No**.
-   -  For **Does this need to go to the Solution Hub**, click **No**.
-
-6. Attach your draft.
-
-You and the designer then collaborate to produce the diagram you need.  The
-process might take days or even weeks, depending on their workload, so provide
-as much lead time as you can.
+If you'd rather request a diagram from the Creative Services team than create it yourself,
+consult the **Writer's Handbook** *Processes* section for instructions.
 
 Diagram checklist
 ~~~~~~~~~~~~~~~~~
