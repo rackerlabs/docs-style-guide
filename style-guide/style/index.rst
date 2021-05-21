@@ -32,6 +32,7 @@ instructions for applying style conventions.
    parameters.rst
    placeholder-variable-text.rst
    plurals.rst
+   possessives.rst
    prepositions.rst
    product-names-version-numbers.rst
    punctuation.rst
