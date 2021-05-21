@@ -9,12 +9,6 @@ According to IBM Style Guide, and Developing Quality Technical Information:
 Use a prepositional phrase instead of an apostrophe and the letter **s** (’s)
 to show the possessive form of abbreviations, brand names, product names, or
 inanimate objects.
-​[11:59 AM] Robb Romans
-    Example (incorrect) 
-​[11:59 AM] Robb Romans
-    
-Examples (correct)
-
 
 .. list-table::
    :widths: 50 50
