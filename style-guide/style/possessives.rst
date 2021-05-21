@@ -1,4 +1,4 @@
-.. _prepositions:
+.. _possessives:
 
 ===========
 Possessives
