@@ -14,7 +14,7 @@ When you write a post, use the writing guidelines in this Style Guide as you
 would with other documentation that is curated by the Information Development
 team. Start with the information in the :ref:`quickstart`.
 
-This topic provides additional guidelines specific to writing postss for the
+This topic provides additional guidelines specific to writing posts for the
 Rackspace Expert Insights Blog site.
 
 Things to consider before writing a blog post
