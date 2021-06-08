@@ -2696,6 +2696,14 @@ parts of speech:
    * - time stamp
      -
      - Use *time stamp* as two words.
+   * - time to live (n), time-to-live (adj)
+     -
+     - Use *time to live* without hyphens as a noun.  Use hyphens for the
+       adjective.
+
+       *Use:*
+
+       Time to live (TTL) limits the data lifespan in a computer or network.
    * - time zone
      -
      - Use *time zone* as two words.
