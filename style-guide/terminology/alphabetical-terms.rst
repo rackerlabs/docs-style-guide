@@ -895,7 +895,9 @@ parts of speech:
        words and don't capitalize it.
    * - data store
      -
-     - Use *data store* as two words.
+     - For technical documentation, use *data store* as two words. For marketing
+       documentation, remember that the Rackspace Marketing Style Guide specifies
+       one word instead of two, so use *datastore* instead.
    * - database
      -
      - Use *database* as one word.
@@ -2861,6 +2863,9 @@ parts of speech:
        to the first (main) page that you see when you enter a site.
 
        See also *internet, Internet, intranet*.
+   * - web server
+     -
+     - Use *web server*, not *webserver*, to refer to the device.
    * - when, whenever
      -
      - Use *when*, not *whenever*, to mean at a particular time. *Whenever*
