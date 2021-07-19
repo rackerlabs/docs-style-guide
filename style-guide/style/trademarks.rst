@@ -60,7 +60,7 @@ used in our content.
    or software name that you use in your content, it's always a good idea to do
    research on the Internet and ensure that you are following any specified
    trademark guidelines. You can also use the
-   `Unites States Patent and  Trademark Office site <https://www.uspto.gov/trademark>`_:
+   `United States Patent and  Trademark Office site <https://www.uspto.gov/trademark>`_:
 
    1. Click the **Find It Fast** link.
    2. Click **TESS**.
