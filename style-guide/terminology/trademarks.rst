@@ -23,6 +23,9 @@ also provided.
    * - Amazon, Amazon Web Services (AWS), AWS Data Pipeline
      - Amazon products are service marks as opposed to trademarks. For more
        information, see https://aws.amazon.com/trademark-guidelines/
+       Note: When federally registered, a service mark carries the standard
+       registration symbol (®). Before registration, use the service mark symbol
+       (℠).
    * - Bash shell
      - The Bash documentation capitalizes Bash.
    * - Common Security Framework (CSF)
