@@ -895,7 +895,7 @@ parts of speech:
        words and don't capitalize it.
    * - data store
      -
-     - Use *data store* as two words.
+     - Use *data store* as two words instead of as one word.
    * - database
      -
      - Use *database* as one word.
