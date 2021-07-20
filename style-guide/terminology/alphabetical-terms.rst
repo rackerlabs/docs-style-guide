@@ -895,9 +895,7 @@ parts of speech:
        words and don't capitalize it.
    * - data store
      -
-     - For technical documentation, use *data store* as two words. For marketing
-       documentation, remember that the Rackspace Marketing Style Guide specifies
-       one word instead of two, so use *datastore* instead.
+     - Use *data store* as two words instead of as one word.
    * - database
      -
      - Use *database* as one word.

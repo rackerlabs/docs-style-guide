@@ -59,8 +59,16 @@ used in our content.
    To see if there is a trademark or registered trademark for a new company
    or software name that you use in your content, it's always a good idea to do
    research on the Internet and ensure that you are following any specified
-   trademark guidelines. You can also use the `Unites States Patent and  Trademark Office site <https://www.uspto.gov/trademark>`_ and search by
-   using their **Find It** Fast link.
+   trademark guidelines. You can also use the
+   `United States Patent and  Trademark Office site <https://www.uspto.gov/trademark>`_:
+
+   1. Click the **Find It Fast** link.
+   2. Click **TESS**.
+   3. Click **Word and/or Design Mark Search**.
+   4. Enter a search term, such as a vendor or product name, and click **Search**.
+   5. Search for the exact term you entered in the **Word mark** column. If it's
+      **Live**, use a registered trademark symbol. You can click on the Word mark
+      to get more details about a specific entry.
 
 .. list-table::
    :widths: 30 70
@@ -71,6 +79,8 @@ used in our content.
    * - Adobe®
      -
    * - Alert Logic®
+     -
+   * - Amazon®
      -
    * - Android™
      -
@@ -89,6 +99,8 @@ used in our content.
    * - Atlassian®
      -
    * - Atlassian® Confluence®
+     -
+   * - AWS®
      -
    * - Brocade®
      -
@@ -134,7 +146,7 @@ used in our content.
      -
    * - Google®
      -
-   * - Google Cloud Platform™
+   * - Google Cloud Platform™ GCP™
      -
    * - Health Information Trust Alliance (HITRUST™)
      -
@@ -190,8 +202,6 @@ used in our content.
      -
    * - Oracle®
      -
-   * - Oracle®
-     -
    * - Oracle® Commerce
      - Payment Card Industry Data Security Standard (PCI-DSS)
    * - Percona® Server
@@ -243,9 +253,12 @@ used in our content.
        Unix.
    * - the Ubuntu® operating system
      - The Ubuntu operating system is always spelled and capitalized as shown.
+       You can use Ubuntu by itself only followed by a specific version.
    * - Varnish®
      -
    * - VMware®
+     -
+   * - VMware Cloud™ on AWS
      -
    * - VMware NSX®
      -
@@ -293,7 +306,7 @@ pages.
      - Trademark page
    * - Adobe
      - https://www.adobe.com/content/dam/acom/en/legal/licenses-terms/pdf/adobe_trademark_database_external.pdf
-   * - Amazon
+   * - Amazon and AWS
      - https://aws.amazon.com/trademark-guidelines/
    * - Apache
      - https://www.apache.org/foundation/marks/list/
@@ -305,8 +318,10 @@ pages.
      - https://www.emc.com/legal/emc-corporation-trademarks.htm
    * - Dell
      - https://www.dell.com/learn/us/en/uscorp1/terms-conditions/trademarks-us
-   * - Google
-     - https://www.google.com/permissions/trademark/trademark-list.html
+   * - Google and GCP
+     - https://about.google/brand-resource-center/trademark-list/
+   * - Hadoop
+     - https://hadoopecosystemtable.github.io/
    * - IBM
      - https://www.ibm.com/legal/us/en/copytrade.shtml#section_1
    * - Linux Foundation
@@ -317,6 +332,8 @@ pages.
      - https://pivotal.io/trademarks
    * - Python
      - https://www.python.org/psf/trademarks/
+   * - Salesforce
+     - https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Terms%20of%20Service/salesforce-trademark-usage-guidelines.pdf
    * - VMware
      - https://www.vmware.com/help/trademarks.html
 
