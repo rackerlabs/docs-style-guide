@@ -23,7 +23,7 @@ py==1.10.0
 Pygments==2.7.4
 pytz==2016.10
 pyyaml>=4.2b1
-requests==2.20.0
+requests==2.31.0
 restructuredtext-lint==0.17.2
 singledispatch==3.4.0.3
 six==1.10.0
