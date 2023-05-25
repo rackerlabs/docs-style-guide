@@ -33,7 +33,7 @@ sphinx-rtd-theme>=0.1.9
 sphinxcontrib-spelling==2.3.0
 sphinxcontrib-versioning>=2.2.1
 stevedore==1.20.0
-tornado==4.3
+tornado==6.3.2
 tox==2.6.0
 virtualenv==15.1.0
 wheel==0.24.0
