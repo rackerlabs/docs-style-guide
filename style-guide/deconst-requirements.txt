@@ -21,7 +21,7 @@ pbr==1.10.0
 pluggy==0.4.0
 py==1.10.0
 pyenchant==1.6.8
-Pygments==2.7.4
+Pygments==2.15.0
 pytz==2016.10
 pyyaml>=4.2b1
 requests>=2.20.0
